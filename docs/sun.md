@@ -1,7 +1,0 @@
----
-layout: page
-title: Hello world
-permalink: /sun/
----
-
-# Sun

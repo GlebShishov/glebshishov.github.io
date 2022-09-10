@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="apple-touch-icon" href="icon.jpg">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/grids.css">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="image_src" href="site-thumbnail.jpg">
+    <link rel="canonical" href="https://nftprotect.app/">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="description" content="Service for saving your nft">
+    <meta name="keywords" content="nft,safe,protect,blockchain">
+    <meta name="robots" content="noindex,nofollow">
+
+    <!-- social media meta -->
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="NFTprotect">
+    <meta property="og:description" content="Service for saving your nft">
+    <meta property="og:image" content="site-thumbnail.jpg">
+    <meta property="og:url" content="https://nftprotect.app/">
+    <meta property="og:site_name" content="NFTprotect">
+    <meta name="twitter:card" content="summary_large_image">    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div class="wrapper">
+    <div class="container navigation-bar">
+        <div class="nav-bar-left">
+            <a href="index.html">
+                <img src="img/logotype.svg" class="main-logo" alt="logotype">
+            </a>
+        </div>
+        <div class="nav-bar-right">
+            <a class="nav-button" href="/about">About</a>
+            <a class="nav-button" href="/contact">Contact</a>
+            <img src="img/test.jpg" class="nav-bar-avatar" alt="avatar">
+        </div>
+    </div>
+</div>
+<div class="wrapper top-padding">
+    <div class="container">
+        {{ content }}       
+    </div>
+    <div class="container">
+        <div class="row align-items-sm-end">
+            <img src="img/test.jpg" class="col-6 project-thumbnail module-height-6">
+            <img src="img/test.jpg" class="col-6 project-thumbnail">
+        </div>
+    </div>
+    <div class="container">
+        <div class="row module-height-5">
+            <img src="img/test.jpg" class="project-thumbnail">
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <img src="img/test.jpg" class="project-thumbnail module-height-6 col-4">
+            <img src="img/test.jpg" class="project-thumbnail module-height-6 col-4">
+            <img src="img/test.jpg" class="project-thumbnail module-height-6 col-4">
+        </div>
+    </div>
+</div>
+</body>
+</html>

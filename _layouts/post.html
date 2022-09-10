@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="project-name">{{ page.title }}</div>
+<p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+<div class="row align-items-end">
+    <div class="col-3 project-page-info">
+        <div class="projet-type">Brand identity</div>
+        {{ content }}          
+        <div class="info-container">
+            <div class="info-line"></div>
+            <div class="info-stats">
+                <p class="info-sub">125 projects</p>
+                <p class="info-time">6 years<br>
+                    experience</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-9 module-height-5">
+        <img src="img/test.jpg" alt="Project-thumbnail" class="project-thumbnail">
+    </div>
+</div>
+
