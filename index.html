@@ -32,16 +32,14 @@ layout: default
   </div>
 </div>
 
-<div>
-  <ul>
+<div class="project-list">  
    {% for post in site.posts %}      
-      <li>
+      <div class="{{ post.class_in_index_page }}">
         <img src="{{ post.thumbnail }}" alt="{{ post.thumbnail }}">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-      </li>
-    {% endfor %}
-  </ul>
+      </div>
+    {% endfor %}  
 </div>
