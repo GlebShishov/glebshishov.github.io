@@ -6,7 +6,7 @@ layout: default
 <div class="row align-items-end">
     <div class="col-3 project-page-info">
         <div class="projet-type">Brand identity</div>
-        {{ content }}          
+        {{ content }}
         <div class="info-container">
             <div class="info-line"></div>
             <div class="info-stats">
@@ -15,6 +15,12 @@ layout: default
                     experience</p>
             </div>
         </div>
+
+        {% for image in post.images %}
+        <div class="myimage">
+            <img src="{{ image }}">
+        </div>
+        {% endof %}
     </div>
     <div class="col-9 module-height-5">
         <img src="img/test.jpg" alt="Project-thumbnail" class="project-thumbnail">
