@@ -33,7 +33,7 @@ layout: default
 </div>
 
 <div class="project-list">  
-   {% for post in site.posts %}      
+   {% for post in site.posts %}
       <div class="{{ post.class_in_index_page }}">
         <img src="{{ post.thumbnail }}" alt="{{ post.thumbnail }}">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
