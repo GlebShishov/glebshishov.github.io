@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Contanct
-permalink: /contant
+title: Contact
+permalink: /contact
 ---
 
 # Contant
