@@ -2,9 +2,7 @@
 
 @font-face {
     font-family: "OpenSans-Variable";
-    src: url("../fonts/OpenSans-Italic-Variable.ttf")
-    /*font-family: Pathway;*/
-    /*src: url("../fonts/PathwayExtreme[opsz,slnt,wdth,wght].ttf");*/
+    src: url("../fonts/opensanitalicsvf.ttf");
 }
 *{
     box-sizing: border-box;
