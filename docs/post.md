@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: Contact
-permalink: /contact
+permalink: /project-template
 ---
 
 # Contant
