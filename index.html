@@ -173,7 +173,16 @@ layout: meta-info
 <!--    </div>-->
     <div class="container">
         <div class="row">
-            {{ content }}
+            {% for post in posts %}
+            <a class="project-thumbnail-container  " href="project.html">
+                <img src="{{ page.thumbnail }}" class="project-thumbnail">
+                <div class="project-line-info">
+                    <span class="project-line-name">{{post.title}}</span>
+                    <span>/</span>
+                    <span class="project-line-type">{{post.categories}}</span>
+                </div>
+            </a>
+            {% endfor %}
         </div>
     </div>
 </div>
