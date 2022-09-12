@@ -1,15 +1,18 @@
 ---
 layout: project-template
-title:  "СПУР - лучший"
+title:  "Dream island"
 subtitle: Brand identity
 date:   2022-09-10 00:59:00
-categories: projects design
-thumbnail: /img/test.jpg
+categories: Brand identity
+thumbnail: /img/dreamisland/dream-island-thumbnail.webp
 projectend: wor date 2022 SUMMER
 images:
-- /img/poker/1.jpg
-- /img/poker/2.jpg
-- /img/poker/3.jpg
+- /img/dreamisland/dream-island-1.webp
+- /img/dreamisland/dream-island-2.webp
 ---
 
-His award winning designs include luxury goods for Christofle, Veuve Clicquot, and Alessi, democratic products for Umbra, Bobble, and 3M, furniture for Bonaldo and Vondom, lighting for Artemide and Fontana Arte, high tech products for Asus and Samsung, surface design for Marburg and Abet Laminati, brand identity for Citibank and Sony Ericsson and packaging for Method, Paris Baguette, Kenzo and Hugo Boss.
+"Dream Island" is the largest indoor theme park in Europe,
+which includes a shopping and entertainment complex and a landscape park with a waterfront.
+Brand packaging, logo design, identity design, development of mobile application and website.
+The task of the project is to unify different brand products under one visual style.
+The design is focused on conveying the mood of the holiday. Bright and saturated colors were used. 
