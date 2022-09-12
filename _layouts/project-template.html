@@ -10,24 +10,24 @@ layout: default
     <div class="container project-container">
       <div class="project-info-container">
         <div class="project-page-info">
-          {{ content }}
-          <h1>Brand identity</h1>
-          <p>His award winning designs include luxury goods for Christofle, Veuve Clicquot, and Alessi, democratic products for Umbra, Bobble, and 3M, furniture for Bonaldo and Vondom, lighting for Artemide and Fontana Arte, high tech products for Asus and Samsung, surface design for Marburg and Abet Laminati, brand identity for Citibank and Sony Ericsson and packaging for Method, Paris Baguette, Kenzo and Hugo Boss.
-            images:</p>
-          <p class="project-name">{{ page.title }}</p>
-          <p class="projet-type">{{ page.categories }}</p>
-          <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-          <div class="stats-container">
-            <div class="info-container">
-              <div class="info-line"></div>
-              <div class="info-stats">
-                <p class="info-sub">125 projects</p>
-                <p class="info-time">6 years<br>experience</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+<!--          {{ content }}-->
+<!--          <h1>Brand identity</h1>-->
+<!--          <p>His award winning designs include luxury goods for Christofle, Veuve Clicquot, and Alessi, democratic products for Umbra, Bobble, and 3M, furniture for Bonaldo and Vondom, lighting for Artemide and Fontana Arte, high tech products for Asus and Samsung, surface design for Marburg and Abet Laminati, brand identity for Citibank and Sony Ericsson and packaging for Method, Paris Baguette, Kenzo and Hugo Boss.-->
+<!--            images:</p>-->
+<!--          <p class="project-name">{{ page.title }}</p>-->
+<!--          <p class="projet-type">{{ page.categories }}</p>-->
+<!--          <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>-->
+<!--          <div class="stats-container">-->
+<!--            <div class="info-container">-->
+<!--              <div class="info-line"></div>-->
+<!--              <div class="info-stats">-->
+<!--                <p class="info-sub">125 projects</p>-->
+<!--                <p class="info-time">6 years<br>experience</p>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
       {{ content }}
       <div class="project-img-container">
         {% for image_url in page.images %}
