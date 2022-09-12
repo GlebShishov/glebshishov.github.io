@@ -1,7 +1,7 @@
 ---
 layout: project-template
-title:  "Safe the Fluffy"
-subtitle: Mobile game
+title:  "VR Binoculars"
+subtitle: product design
 date:   2022-09-10 00:59:00
 categories: projects design
 thumbnail: /img/VR-binoculars/VR-thumbnail.gif

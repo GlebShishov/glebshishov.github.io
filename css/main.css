@@ -32,8 +32,8 @@ img{
     /*height: 100%;*/
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    gap: 10px;
+    /*justify-content: space-between;*/
+    gap: 12px;
     text-decoration: none;
     color: var(--text-color);
     /*color: black;*/
@@ -49,9 +49,12 @@ img{
 
 .project-thumbnail{
     /*height: 280px;*/
-    width: 100%;
+    /*width: 100%;*/
     /*max-width: 432px;*/
-    max-width: 600px;
+
+    max-width: min(100%, 432px);
+
+    /*max-width: 600px;*/
 
 
     /*height: 100%;*/

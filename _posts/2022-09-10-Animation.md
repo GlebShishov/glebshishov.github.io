@@ -1,7 +1,7 @@
 ---
 layout: project-template
-title:  "Pokerin"
-subtitle: Brand identity + web design
+title:  "Animation"
+subtitle: animation
 date:   2022-09-10 00:59:00
 categories: brand development
 thumbnail: /img/Animation/Animation_thumbnail.gif
