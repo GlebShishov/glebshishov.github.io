@@ -228,8 +228,9 @@ p{
 .project-name{
     font-style: normal;
     font-weight: 700;
-    font-size: 32px;
-    line-height: 126.5%;
+    font-size: 64px;
+    line-height: 64px;
+    letter-spacing: -0.005em;
 }
 
 .projet-type{
@@ -823,10 +824,6 @@ p {
         position: inherit;
     }
 
-    .project-name {
-        font-size: 64px;
-        line-height: normal;
-    }
 }
 
 .project-img-big {
@@ -834,12 +831,8 @@ p {
     max-width: 1920px;
     /*height: auto;*/
     height: 800px;
-    background-image: url("../img/test.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     border-radius: 16px;
-    object-fit: contain;
+    object-fit: cover;
 }
 
 
