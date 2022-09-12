@@ -48,9 +48,11 @@ img{
 /*}*/
 
 .project-thumbnail{
-    height: 280px;
-    width: 100%;
-    max-width: 432px;
+    /*height: 280px;*/
+    /*width: 100%;*/
+    /*max-width: 432px;*/
+
+
     /*height: 100%;*/
     /*width: 100%;*/
     /*!*background: url("../img/test.jpg");*!*/

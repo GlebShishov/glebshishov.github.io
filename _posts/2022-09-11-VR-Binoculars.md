@@ -1,10 +1,10 @@
 ---
 layout: project-template
-title:  "Fusion Punks"
-subtitle: Brand identity+web design
+title:  "Safe the Fluffy"
+subtitle: Mobile game
 date:   2022-09-10 00:59:00
 categories: projects design
-thumbnail: 
+thumbnail: /img/VR-binoculars/VR-thumbnail.gif
 projectend: wor date 2022 SUMMER
 images:
 - /img/poker/
