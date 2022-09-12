@@ -47,8 +47,8 @@ layout: meta-info
 <div class="wrapper top-padding">
     <div class="container">
         <div class="name-container">
-            <p class="myText" id="text">GLEB SHISHOV</p>
-            <p class="proffesion">Art director</p>
+            <span class="myText" id="text">GLEB SHISHOV</span>
+            <span class="proffesion">Art director</span>
         </div>
         <div class="row">
             <div class="welcome-big">
@@ -164,7 +164,7 @@ layout: meta-info
         <div class="row">
             {% for post in site.posts %}
             <a class="project-thumbnail-container col-6" href="{{ post.url | prepend: site.baseurl }}">
-                <div style="background: url('{{post.thumbnail}}');border-radius: 16px;background-position: center; background-repeat: no-repeat; width: 100%" class="module-height-5 col-6"></div>
+                <div style="background: url('{{post.thumbnail}}')" class="module-height-5 col-6 project-img-big"></div>
                 <div class="project-line-info">
                     <span class="project-line-name">{{post.title}}</span>
                     <span>/</span>

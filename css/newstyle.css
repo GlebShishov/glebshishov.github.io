@@ -74,7 +74,7 @@ p {
     .welcome-big {
         width: 100%;
         /*max-width: 600px;*/
-        height: 422px;
+        height: 60vw;
     }
 
     .welcome-small {

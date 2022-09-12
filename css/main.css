@@ -110,6 +110,7 @@ img{
     gap: clamp(2vw,1rem,3vw);
     position: absolute;
     color: white;
+    margin: 12px;
 }
 .proffesion{
     font-style: normal;
@@ -127,7 +128,7 @@ iframe {
     margin-bottom: 1rem;
     font-style: normal;
     font-weight: 550;
-    font-size: clamp(85px, 15vw, 245px);
+    font-size: clamp(64px, 15vw, 245px);
     line-height: clamp(75px, 15vw, 245px);
     text-transform: uppercase;
     z-index: 1;
@@ -240,13 +241,15 @@ p{
 }
 
 .main-logo{
-    width: clamp(64px,2vw,131px);
+    /*width: min(70%, 300px);*/
     height: auto;
 }
 
 .nav-bar-left{
     display: flex;
     flex-direction: row;
+    align-items: center;
+    justify-content: center;
     gap: 24px;
     background: #FFFFFF;
     border-radius: 32px;
@@ -254,6 +257,7 @@ p{
     height: 49px;
     align-items: center;
     justify-content: center;
+    padding: 0px 12px 0px 12px;
 
 }
 
