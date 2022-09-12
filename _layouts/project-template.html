@@ -31,11 +31,10 @@ layout: default
       {{ content }}
       <div class="project-img-container">
         {% for image_url in page.images %}
-        <img class="project-img-big" src="{{ image_url }}">
+        <img class="project-img-big" src="{{ image_url }}" alt="{{ page.title}}-img">
         {% endfor %}
       </div>
     </div>
   </div>
-</div>
 </body>
 </html>
