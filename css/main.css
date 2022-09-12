@@ -107,7 +107,7 @@ img{
 .name-container{
     display: flex;
     flex-direction: column;
-    gap: clamp(10vw,5rem 24px);
+    gap: clamp(2vw,1rem,3vw);
     position: absolute;
     color: white;
 }
@@ -124,6 +124,7 @@ iframe {
 }
 
 .myText{
+    margin-bottom: 1rem;
     font-style: normal;
     font-weight: 550;
     font-size: clamp(85px, 15vw, 245px);
@@ -263,7 +264,6 @@ p{
     align-items: center;
     background: #FFFFFF;
     border-radius: 32px;
-    width: 225.44px;
     padding-left: 1rem;
 
 
@@ -293,7 +293,7 @@ p{
     display: flex;
     flex-direction: row;
     position: fixed;
-    z-index: 0;
+    z-index: 2;
     justify-content: space-between;
     align-items: center;
 }
