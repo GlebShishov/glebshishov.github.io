@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 
 @font-face {
     font-family: "OpenSans-Variable";
-    src: url("../fonts/opensanitalicsvf.ttf");
+    src: url("/fonts/opensanitalicsvf.ttf");
 }
 
 :root {
@@ -17,7 +18,7 @@
 }
 body{
     margin: 0;
-    font-family: 'HelveticaNeueCyr';
+    font-family: 'Helvetica', 'Arial', sans-serif;
     background-color: var(--background);
     color: var(--text-color);
 }
@@ -242,9 +243,8 @@ p{
 }
 
 .main-logo{
-    width: 131px;
-    height: 18px;
-
+    width: clamp(64px,2vw,131px);
+    height: auto;
 }
 
 .nav-bar-left{
@@ -278,7 +278,7 @@ p{
     text-decoration: none;
     font-style: normal;
     /*font-weight: 400;*/
-    font-size: 18px;
+    font-size: clamp(14px, 2vw, 18px);
     line-height: 18px;
 
     color: #000000;
