@@ -4,7 +4,7 @@ title:  "Dream island"
 subtitle: Brand identity
 date:   2022-09-10 00:59:00
 categories: Brand identity
-thumbnail: /img/dreamisland/dream-island-thumbnail.webp
+thumbnail: /img/Dream-island/dream-island-thumbnail.webp
 projectend: wor date 2022 SUMMER
 images:
 - /img/dreamisland/dream-island-1.webp

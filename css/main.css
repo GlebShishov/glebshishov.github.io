@@ -49,8 +49,9 @@ img{
 
 .project-thumbnail{
     /*height: 280px;*/
-    /*width: 100%;*/
+    width: 100%;
     /*max-width: 432px;*/
+    max-width: 600px;
 
 
     /*height: 100%;*/
