@@ -10,7 +10,7 @@
     --background: #15171D;
     --text-color: #B8B8B8;
     --grid-gap: clamp(1rem, 2vw, 24px);
-    --projects-container-gap: clamp(4px,2vw,24px))
+    --projects-container-gap: clamp(4px,2vw,24px);
 }
 
 *{
