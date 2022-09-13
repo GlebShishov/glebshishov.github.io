@@ -10,7 +10,6 @@
     --background: #15171D;
     --text-color: #B8B8B8;
     --grid-gap: clamp(1rem, 2vw, 24px);
-    --projects-container-gap: clamp(4px,2vw,24px);
 }
 
 *{
@@ -65,7 +64,7 @@ img{
 
 @media (max-width:768px) {
     .block-size-m{
-        width: calc(50%-(var(--projects-container-gap)/2);
+        width: calc(50% - clamp(4px,2vw,24px)/2);
         height: 400px;
     }
     .block-size-l{
