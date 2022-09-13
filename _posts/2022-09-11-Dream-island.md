@@ -8,8 +8,8 @@ thumbnail: /img/Dream-island/dream-island-thumbnail.webp
 projectend: wor date 2022 SUMMER
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- /img/dreamisland/dream-island-1.webp
-- /img/dreamisland/dream-island-2.webp
+- /img/Dream-island/dream-island-1.webp
+- /img/Dream-island/dream-island-2.webp
 ---
 
 "Dream Island" is the largest indoor theme park in Europe,

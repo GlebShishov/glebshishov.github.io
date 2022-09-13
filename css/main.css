@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: "OpenSans-Variable";
-    src: url("/fonts/opensanitalicsvf.ttf");
+    src: url("/fonts/OpenSans-Variable.ttf");
 }
 
 :root {
@@ -67,6 +67,7 @@ p{
 }
 .project-thumbnail-container:hover{
     font-variation-settings: "wght" 600, "ital" 12;
+    color: rgba(255 255 255 /1);
 }
 
 .project-thumbnail{
@@ -168,14 +169,13 @@ figure{
     border-bottom-left-radius: clamp(6px,2vw,16px);
     border-bottom-right-radius: clamp(6px,2vw,16px);
 
-
+    color: rgba(255 255 255 / 0.5);
     font-style: normal;
     font-weight: 300;
     font-size: 12px;
     line-height: 18px;
     align-items: center;
     letter-spacing: 0.03em;
-    opacity: 0.5;
     text-align: start;
 }
 .project-line-name{
@@ -880,7 +880,7 @@ p {
 .counter {
     margin: 0;
     padding: 0;
-    animation: counter 5s alternate ease-in-out;
+    animation: counter 5s alternate infinite ease-in-out;
     counter-reset: num var(--num);
 }
 .counter::after {

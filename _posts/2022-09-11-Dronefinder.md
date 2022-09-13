@@ -4,7 +4,7 @@ title:  "Dronefinder"
 subtitle: Brand + mobileapp
 date:   2022-09-10 00:59:00
 categories: Brand + mobileapp
-thumbnail: /img/Dronefinder/drone-anim-fly.webm
+thumbnail: /img/Dronefinder/drone-thumbnail.webp
 projectend: wor date 2022 SUMMER
 thumbnail-class: project-thumbnail-container block-size-m
 images:
