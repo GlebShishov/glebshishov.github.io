@@ -6,7 +6,7 @@ date:   2022-09-10 00:59:00
 categories: projects design
 thumbnail: /img/Metanotary/Metanotary-thumbnail.webp
 projectend: wor date 2022 SUMMER
-thumbnailclass: project-thumbnail-container-m
+thumbnail-class: project-thumbnail-container-m
 images:
 - /img/poker/
 ---

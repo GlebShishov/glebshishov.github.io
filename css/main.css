@@ -51,16 +51,26 @@ img{
 
 .project-thumbnail-container-l{
     width: 100%;
-    height: 582px;
+    max-width: 888px;
+    height: 736px;
+}
+
+.project-thumbnail-container-xl{
+    width: 100%;
+    height: 736px;
 }
 
 
-@media (min-width:768px) {
+@media (max-width:768px) {
     .project-thumbnail-container-m{
         width: 49%;
         height: 400px;
     }
     .project-thumbnail-container-l{
+        width: 100%;
+        height: 400px;
+    }
+    .project-thumbnail-container-xl{
         width: 100%;
         height: 400px;
     }
