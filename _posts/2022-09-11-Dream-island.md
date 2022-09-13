@@ -6,7 +6,7 @@ date:   2022-09-10 00:59:00
 categories: Brand identity
 thumbnail: /img/Dream-island/dream-island-thumbnail.webp
 projectend: wor date 2022 SUMMER
-thumbnail-class: project-thumbnail-container-l
+thumbnail-class: project-thumbnail-container block-size-m
 images:
 - /img/dreamisland/dream-island-1.webp
 - /img/dreamisland/dream-island-2.webp

@@ -6,7 +6,7 @@ date:   2022-09-10 00:59:00
 categories: Brand + mobileapp
 thumbnail: /img/Dronefinder/drone-anim-fly.webm
 projectend: wor date 2022 SUMMER
-thumbnail-class: project-thumbnail-container-xl
+thumbnail-class: project-thumbnail-container block-size-m
 images:
 - /img/Dronefinder/drone-1.webp
 - /img/Dronefinder/drone-2.webp

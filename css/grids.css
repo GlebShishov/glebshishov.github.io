@@ -69,6 +69,18 @@ root{
     width: 100%;
     gap: 24px;
 }
+.projects-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    box-sizing: border-box;
+    /*flex-shrink: 1;*/
+    max-width: 100%;
+
+    width: 100%;
+    gap: clamp(4px,2vw,24px);
+    align-items: end;
+}
 
 .row-2{
     width: 50%;

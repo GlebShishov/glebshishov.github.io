@@ -6,7 +6,7 @@ date:   2022-09-10 00:59:00
 categories: projects design
 thumbnail: /img/VR-binoculars/VR-thumbnail.gif
 projectend: wor date 2022 SUMMER
-thumbnail-class: project-thumbnail-container-m
+thumbnail-class: project-thumbnail-container block-size-m
 images:
 - /img/poker/
 ---
