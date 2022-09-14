@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: "OpenSans-Variable";
-    src: url("/fonts/OpenSans-Variable.ttf");
+    src: url("../fonts/OpenSans-Variable.ttf");
 }
 
 :root {
@@ -34,8 +34,8 @@ img{
 h1{
     font-style: normal;
     font-weight: 700;
-    font-size: 155px;
-    line-height: 154px;
+    font-size: 64px;
+    line-height: 64px;
     letter-spacing: -0.005em;
 }
 
@@ -412,7 +412,9 @@ iframe {
 
 
 .top-padding{
-    padding-top: 64px;
+    /*padding-top: 64px;*/
+    /*padding-bottom: 100px;*/
+    padding: 64px 0 100px 0px;
 }
 @media (max-width: 425px) {}
 
@@ -895,3 +897,94 @@ p {
         --num: 125;
     }
 }
+.info-skills-container{
+    padding-top: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    box-sizing: border-box;
+    flex-grow: 2;
+    max-width: 100%;
+
+    width: 100%;
+    gap: 24px;
+    align-items: start;
+}
+
+.info-skills-block{
+    width: 100%;
+    max-width: 432px;
+    flex-grow: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.project-list-button{
+    font-family: OpenSans-Variable;
+    text-decoration: none;
+    width: fit-content;
+    font-variation-settings: "wght" 300, "slnt" 0;
+    font-size: clamp(14px, 2vw, 18px);
+    line-height: 18px;
+    color: white;
+    transition: font-variation-settings 0.3s ease;
+}
+.project-list-button:hover{
+    color: white;
+    font-variation-settings: "wght" 700, "slnt" 100;
+}
+
+.work{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.project-list{
+display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 2;
+    gap: 12px;
+}
+
+.about-container-info{
+    width: 432px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+.about-container{
+    display: flex;
+    flex-direction: row;
+    gap: var(--grid-gap);
+    flex-wrap: wrap-reverse;
+    align-items: center;
+    justify-content: center;
+}
+.about-photo{
+    width: 100%;
+    max-width: 280px;
+    height: min(50%, 200px);
+    max-height: 433px;
+    object-position: center;
+    object-fit: cover;
+    border-radius: 16px;
+}
+@media (max-width: 768px) {
+    .info-skills-container{
+        flex-direction: column;
+        gap: 36px;
+    }
+    .about-photo{
+        width: 100%;
+        max-width: 100%;
+        height: 30vh;
+    }
+    .info-skills-block{
+        max-width: 100%;
+    }
+}
+
+.align-items-cnt
