@@ -3,25 +3,26 @@ let myTextElement = document.getElementById("text");
 
 // Параметры
 const minWidth = 100;
-const maxWidth = 850;
+const maxWidth = 1000;
 const minWeight = 100;
-const maxWeight = 850;
-const minItalic = 1;
-const maxItalic = 6;
+const maxWeight = 1000;
+const minItalic = -10;
+const maxItalic = 0;
 
 function updateText(e) {
     // UV
-    const uvX = e.offsetX / window.innerWidth;
-    const uvY = e.offsetY / window.innerHeight;
+    const uvX = Math.max(Math.min(e.clientX / window.innerWidth, 1), 0);
+    const uvY = Math.max(Math.min(e.clientY / window.innerHeight, 1), 0);
 
     // расчет
     const weight = Math.round(uvX * (maxWeight - minWeight) + minWeight);
-    const width = Math.round(uvY * (maxWidth - minWidth) + minWidth);
+    const width = Math.round(uvX * (maxWidth - minWidth) + minWidth);
     const italic = Math.round(uvY * (maxItalic - minItalic) + minItalic);
 
     // Применяем стили
-    const fontVariationSettings = `"wght" ${weight}, "wdth" ${width}, "ital" ${italic}`;
-    console.log(fontVariationSettings);
+    const fontVariationSettings = `"wght" ${weight}, "wdth" ${width}, "slnt" ${italic}`;
+    //console.log(fontVariationSettings);
+    // console.log({ x: e.clientX, y: e.clientY, w: window.innerWidth, h: window.innerHeight });
     myTextElement.style.fontVariationSettings = fontVariationSettings;
 }
 

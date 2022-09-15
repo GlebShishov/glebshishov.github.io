@@ -1,7 +1,7 @@
 lsi: false
 safe: true
 source: ./
-incremental: true
+incremental: false
 highlighter: rouge
 gist:
   noscript: false

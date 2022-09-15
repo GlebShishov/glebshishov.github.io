@@ -1,6 +1,6 @@
 ---
 layout: project-template
-title:  "Battleships"
+title:  "Bathub Admirals"
 subtitle: Game
 date:   2022-09-10 00:59:00
 categories: projects design

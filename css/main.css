@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: "OpenSans-Variable";
-    src: url("../fonts/OpenSans-Variable.ttf");
+    src: url("../fonts/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf");
 }
 
 :root {
@@ -14,13 +14,17 @@
     --grid-margin: 60px;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 *{
     box-sizing: border-box;
     margin: 0;
 }
 body{
     margin: 0;
-    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-family: OpenSans-Variable;
     background-color: var(--background);
     color: var(--text-color);
 }
@@ -107,42 +111,91 @@ p{
 /*        transition: all 0.1s ease-in-out;*/
 /*}*/
 .block-size-m{
-    /*width: 100%;*/
-    max-width: 432px;
+    width: 100%;
+    /*max-width: 432px;*/
     height: 582px;
     flex-grow: 2;
 }
 .block-size-l{
     /*width: 100%;*/
-    max-width: 888px;
+    /*max-width: 888px;*/
     height: 736px;
     flex-grow: 2;
 }
 .block-size-xl{
     width: 100%;
-    height: 736px;
+    /*height: 736px;*/
+    height: 60vh;
     flex-grow: 2;
 }
 
-@media (max-width:768px) {
+
+@media (max-width:425px) {
     .block-size-m{
-        width: calc(50% - clamp(4px,2vw,24px)/2);
-        height: 300px;
+        width: calc(50% - clamp(4px,2vw,12px)/2);
+        height: 40vh;
         flex-grow: unset;
     }
     .block-size-l{
         width: 100%;
-        height: 400px;
-    }
-    .block-size-xl{
-        width: 100%;
-        height: 400px;
+        height: 50vh;
     }
     .project-line-info{
         align-items: start;
         flex-direction: column;
     }
 }
+
+@media (min-width:768px) {
+    .block-size-m{
+        width: calc(50% - clamp(4px,2vw,12px)/2);
+        /*height: 400px;*/
+    }
+    .block-size-l{
+        width: 100%;
+        height: 50vh;
+    }
+    .project-line-info{
+        align-items: start;
+        flex-direction: column;
+    }
+}
+@media (min-width:1024px) {
+    .block-size-m{
+        width: 24%;
+        height: 350px;
+        flex-grow: unset;
+    }
+    .block-size-l{
+        width: 100%;
+        max-width: 49.37%;
+    }
+}
+@media (min-width:1440px) {
+    .block-size-m{
+        width: 32.7%;
+        height: 700px;
+    }
+    .block-size-l{
+        width: 100%;
+        max-width: 66.4%;
+        height: 700px;
+    }
+}
+@media (min-width:1920px) {
+    .block-size-m{
+        width: calc(25% - 9px);
+        height: 700px;
+    }
+    .block-size-l{
+        width: 800px;
+        /*max-width: 888px;*/
+        /*width: calc(50%- 24px);*/
+        height: 700px;
+    }
+}
+
+
 
 figure{
     width: 100%;
@@ -155,7 +208,7 @@ figure{
     /*gap: 12px;*/
     /*flex-direction: row;*/
     /*flex-wrap: wrap;*/
-    padding: 12px;
+    padding: clamp(4px,2vw,12px);
     margin: 0;
     width: 100%;
     background-color: rgba(0 0 0 / 0.2);
@@ -165,7 +218,7 @@ figure{
     flex-direction: row;
     flex-wrap: wrap;
     color: white;
-    gap: 12px;
+    gap: clamp(4px,6px,12px);
     border-bottom-left-radius: clamp(6px,2vw,16px);
     border-bottom-right-radius: clamp(6px,2vw,16px);
 
@@ -346,15 +399,20 @@ iframe {
     line-height: 18px;
     color: black;
     border-radius: 32px;
-    padding: 12px 6px 12px 16px;
+    padding: 12px 4px 12px 16px;
     background-color: white;
+    transition: font-variation-settings 0.3s ease;
+    font-variation-settings: "wght" 400, "ital" 12;
 }
+
 .contact-container:hover{
     background-color: black;
     color: white;
+    font-variation-settings: "wght" 700, "ital" 12;
 }
+
 .nav-button{
-    font-family: OpenSans-Variable;
+    /*font-family: OpenSans-Variable;*/
     height: 48px;
     border-radius: 32px;
     padding: 12px 16px 12px 16px;
@@ -849,7 +907,7 @@ p {
     max-width: 100%;
 
     width: 100%;
-    gap: clamp(4px,2vw,24px);
+    gap: clamp(4px,2vw,12px);
     align-items: end;
 }
 
@@ -873,6 +931,7 @@ p {
 /*    --num: 125;*/
 /*}*/
 
+/*noinspection CssInvalidAtRule*/
 @property --num {
     syntax: "<integer>";
     initial-value: 0;
@@ -894,7 +953,7 @@ p {
         --num: 0;
     }
     to {
-        --num: 125;
+        --num: 60;
     }
 }
 .info-skills-container{
