@@ -3,7 +3,7 @@ layout: project-template
 title:  "Dream island"
 subtitle: Brand identity
 date:   2022-09-10 00:59:00
-categories: Brand identity
+categories: Projects Brand-identity
 thumbnail: /img/Dream-island/dream-island-thumbnail.webp
 projectend: wor date 2022 SUMMER
 thumbnail-class: project-thumbnail-container block-size-l

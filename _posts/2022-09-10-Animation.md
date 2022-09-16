@@ -3,7 +3,7 @@ layout: project-template
 title:  "Animation"
 subtitle: animation
 date:   2022-09-10 00:59:00
-categories: brand development
+categories: Projects Art
 thumbnail: /img/Animation/Animation_thumbnail.gif
 projectend: wor date 2022 SUMMER
 thumbnail-class: project-thumbnail-container block-size-m

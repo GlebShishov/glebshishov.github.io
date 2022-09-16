@@ -3,7 +3,7 @@ layout: project-template
 title:  "VR Binoculars"
 subtitle: product design
 date:   2022-09-10 00:59:00
-categories: projects design
+categories: Projects Prom-desing
 thumbnail: /img/VR-binoculars/VR-thumbnail.gif
 projectend: wor date 2022 SUMMER
 thumbnail-class: project-thumbnail-container block-size-l

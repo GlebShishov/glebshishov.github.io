@@ -3,7 +3,7 @@ layout: project-template
 title:  "Humster Drumma"
 subtitle: Game
 date:   2022-09-10 00:59:00
-categories: projects design
+categories: Projects Games
 thumbnail: /img/NFTprotect/NFTprotect-thumbnail.webp
 projectend: wor date 2022 SUMMER
 thumbnail-class: project-thumbnail-container block-size-m

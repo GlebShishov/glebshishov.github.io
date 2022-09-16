@@ -3,7 +3,7 @@ layout: project-template
 title:  "Total Poker"
 subtitle: Product design
 date:   2022-09-10 00:59:00
-categories: projects design
+categories: Projects Brand-Identity
 thumbnail: /img/NFTprotect/NFTprotect-thumbnail.webp
 projectend: wor date 2022 SUMMER
 thumbnail-class: project-thumbnail-container block-size-m

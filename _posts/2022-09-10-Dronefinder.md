@@ -3,7 +3,7 @@ layout: project-template
 title:  "Dronefinder"
 subtitle: Brand + mobileapp
 date:   2022-09-10 00:59:00
-categories: Brand + mobileapp
+categories: Projects Brand-identity
 thumbnail: /img/Dronefinder/drone-thumbnail.webp
 projectend: wor date 2022 SUMMER
 thumbnail-class: project-thumbnail-container block-size-l
