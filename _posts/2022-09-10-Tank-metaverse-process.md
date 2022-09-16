@@ -1,12 +1,12 @@
 ---
 layout: project-template
-title:  "Tank metaverse assets"
+title:  "Tank Metaverse breakdown"
 subtitle: 3D art
 date:   2022-09-10 00:59:00
 categories: Projects Art
-thumbnail: /img/NFTprotect/NFTprotect-thumbnail.webp
+thumbnail: /img/Tank-Metaverse-Breakdown/Tank-Metaverse-Breakdown-thumbnail.png
 projectend: wor date 2022 SUMMER
-thumbnail-class: project-thumbnail-container block-size-xl
+thumbnail-class: project-thumbnail-container block-size-m
 images:
 - /img/poker/
 ---

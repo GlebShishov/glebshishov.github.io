@@ -5,7 +5,6 @@
     font-family: "OpenSans-Variable";
     src: url("../fonts/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf");
 }
-
 :root {
     --background: #15171D;
     --text-color: #B8B8B8;
@@ -13,6 +12,23 @@
     --grid-gutter: 24px;
     --grid-margin: 60px;
 }
+
+body::-webkit-scrollbar {
+    width: 1em;
+}
+
+body::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 100px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #2E313B;
+    /*outline: 1px solid slategrey;*/
+    border-radius: 100px;
+}
+
+
 
 .row {
     display: flex;
@@ -138,34 +154,72 @@ p{
 .block-size-xl{
     width: 100%;
     /*height: 736px;*/
-    height: 60vh;
+    height: 90vh;
     flex-grow: 2;
 }
 
-
-@media (max-width:425px) {
+@media (min-width:320px) {
     .block-size-m{
         width: calc(50% - clamp(4px,2vw,12px)/2);
-        height: 40vh;
+        height: 280px;
         flex-grow: unset;
     }
     .block-size-l{
         width: 100%;
-        height: 50vh;
+        height: 350px;
+    }
+    .block-size-xl{
+        width: 100%;
+        height: 350px;
+    }
+}
+
+
+@media (min-width:375px) {
+    .block-size-m{
+        width: calc(50% - clamp(4px,2vw,12px)/2);
+        height: 280px;
+        flex-grow: unset;
+    }
+    .block-size-l{
+        width: 100%;
+        height: 350px;
+    }
+    .block-size-xl{
+        width: 100%;
+        height: 350px;
+    }
+}
+
+
+
+@media (min-width:425px) {
+    .block-size-m{
+        width: calc(50% - clamp(4px,2vw,12px)/2);
+        height: 300px;
+        flex-grow: unset;
+    }
+    .block-size-l{
+        width: 401px;
+        height: 401px;
     }
     .project-line-info{
         align-items: start;
         flex-direction: column;
     }
+    .block-size-xl{
+        width: 401px;
+        height: 401px;
+    }
 }
 
 @media (min-width:768px) {
     .block-size-m{
-        width: calc(50% - clamp(4px,2vw,12px)/2);
-        /*height: 400px;*/
+        width: 32.2%;
+        height: 400px;
     }
     .block-size-l{
-        width: 100%;
+        width: 300px;
         height: 50vh;
     }
     .project-line-info{

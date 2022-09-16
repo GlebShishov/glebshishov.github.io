@@ -1,10 +1,10 @@
 ---
 layout: project-template
-title:  "Tank metaverse"
+title:  "Tank Metaverse"
 subtitle: web design
 date:   2022-09-10 00:59:00
 categories: Projects Website
-thumbnail: /img/Tank-Metaverse/0001-0250.mp4
+thumbnail: /img/Tank-Metaverse/Tank-Metaverse-thumbnail.png
 projectend: wor date 2022 SUMMER
 thumbnail-class: project-thumbnail-container block-size-m
 thumbnail-type: "video"

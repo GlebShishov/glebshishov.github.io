@@ -4,9 +4,9 @@ title:  "Promsvyazbank"
 subtitle: 3D video
 date:   2022-09-10 00:59:00
 categories: Projects Video
-thumbnail: /img/NFTprotect/NFTprotect-thumbnail.webp
+thumbnail: /img/Promsvyazbank/Promsvyzbank-thumbnail.webp
 projectend: wor date 2022 SUMMER
-thumbnail-class: project-thumbnail-container block-size-m
+thumbnail-class: project-thumbnail-container block-size-l
 images:
 - /img/poker/
 ---

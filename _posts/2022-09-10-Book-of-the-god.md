@@ -4,7 +4,7 @@ title:  "Book of the god"
 subtitle: Game
 date:   2022-09-10 00:59:00
 categories: Projects Games
-thumbnail: /img/NFTprotect/NFTprotect-thumbnail.webp
+thumbnail: /img/Book-of-the-god/Book-of-the-god-thumbnail.png
 projectend: wor date 2022 SUMMER
 thumbnail-class: project-thumbnail-container block-size-m
 images:

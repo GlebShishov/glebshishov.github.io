@@ -1,12 +1,12 @@
 ---
 layout: project-template
-title:  "Bathub Admirals"
-subtitle: Game
+title:  "Volgograd"
+subtitle: 3d map
 date:   2022-09-10 00:59:00
 categories: Projects Art
-thumbnail: /img/NFTprotect/NFTprotect-thumbnail.webp
+thumbnail: /img/Volgograd-map/Volgograd-Thumbnail.webp
 projectend: wor date 2022 SUMMER
-thumbnail-class: project-thumbnail-container block-size-l
+thumbnail-class: project-thumbnail-container block-size-m
 images:
 - /img/poker/
 ---

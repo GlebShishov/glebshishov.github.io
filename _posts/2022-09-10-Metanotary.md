@@ -1,12 +1,12 @@
 ---
 layout: project-template
-title:  "NFT art"
-subtitle: NFT collection
+title:  "Metanotary"
+subtitle: Brand Identity
 date:   2022-09-10 00:59:00
 categories: Projects Brand-Identity
 thumbnail: /img/Metanotary/Metanotary-thumbnail.webp
 projectend: wor date 2022 SUMMER
-thumbnail-class: project-thumbnail-container block-size-m
+thumbnail-class: project-thumbnail-container block-size-l
 images:
 - /img/poker/
 ---
