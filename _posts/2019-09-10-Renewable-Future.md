@@ -2,10 +2,10 @@
 layout: project-template
 title:  "Renewveble future"
 subtitle: Game
-date:   2022-09-10 00:59:00
+date:   2019-09-10 00:59:00
 categories: Projects Games
 thumbnail: /img/Renew-Future/Renew-Future-thumbnail.png
-projectend: wor date 2022 SUMMER
+projectend: 2019 Summer
 thumbnail-class: project-thumbnail-container block-size-m
 images:
 - /img/poker/
