@@ -4,12 +4,15 @@ title:  "Dream island"
 subtitle: Brand identity
 date:   2021-06-10 00:59:00
 categories: Projects Brand-identity
-thumbnail: /img/Dream-island/dream-island-thumbnail.webp
+thumbnail: /img/Dream-island/Dream-island-thumbnail.webp
 projectend: 2019 summer
 thumbnail-class: project-thumbnail-container block-size-l
 images:
-- /img/Dream-island/dream-island-1.webp
-- /img/Dream-island/dream-island-2.webp
+- /img/Dream-island/Dream-island-1.webp
+- /img/Dream-island/Dream-island-2.webp
+- /img/Dream-island/Dream-island-3.webp
+- /img/Dream-island/Dream-island-4.webp
+- /img/Dream-island/Dream-island-5.webp
 ---
 Creation of a variant of visual identity of the amusement park brand.
 

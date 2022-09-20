@@ -4,11 +4,12 @@ title:  "Book of the god"
 subtitle: Game
 date:   2022-08-10 00:59:00
 categories: Projects Games
-thumbnail: /img/Book-of-the-god/Book-of-the-god-thumbnail.png
+thumbnail: /img/Book-of-the-god/Book-of-the-god-thumbnail.webp
 projectend: 2022 summer
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- /img/poker/
+- /img/Book-of-the-god/Book-of-the-god-1.webp
+- /img/Book-of-the-god/Book-of-the-god-2.webp
 ---
 Browser game created in 2 days for the GMTK contest
 genre : turn based quest

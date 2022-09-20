@@ -6,7 +6,7 @@
   <link rel="manifest" href="/site.webmanifest">
   <link rel="apple-touch-icon" href="/icon.png">
 
-  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="css/main.css">
   <link rel="shortcut icon" href="/favicon.ico">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -38,20 +38,32 @@
 
 </head>
 <body>
-<div class="wrapper">
-  <div class="container navigation-bar" id="navbar">
-    <div class="nav-bar-left">
-      <a class="nav-button" href="/index.html">Gleb shishov</a>
-    </div>
-    <div class="nav-bar-right">
-      <a class="nav-button" href="/about">About</a>
-      <a class="contact-container" href="/contact.html">
-        Contact
-        <img src="/img/avatar.jpg" class="nav-bar-avatar" alt="avatar">
-      </a>
+<div class="wrapper top-padding">
+  <div class="container">
+    <div class="container project-container">
+      <div class="project-info-container">
+        <div class="project-page-info">
+          <p class="project-name">{{ page.title }}</p>
+          <p class="projet-type">{{ page.subtitle }}</p>
+          {{ content }}
+          <div class="stats-container">
+            <div class="info-container">
+              <div class="info-line"></div>
+              <div class="info-stats">
+                <p class="info-sub">125 projects</p>
+                <p class="info-time">{{ page.projectend }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="project-img-container">
+        <img src="img/Pepsico/Pepsico-thumbnail.webp" class="triptich">
+        <img src="img/Pepsico/Pepsico-thumbnail.webp" class="triptich">
+        <img src="img/Pepsico/Pepsico-thumbnail.webp" class="triptich">
+      </div>
     </div>
   </div>
 </div>
-  {{ content }}
 </body>
 </html>
