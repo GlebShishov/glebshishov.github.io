@@ -8,7 +8,10 @@ thumbnail: /img/NFTprotect/NFTprotect-thumbnail.png
 projectend: 2022 summer
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- /img/poker/
+- <img src="/img/NFTprotect/NFTprotect-1.webp" class="project-img-parameters img-size-full" alt="NFT-protect-1">
+- <img src="/img/NFTprotect/NFTprotect-2.webp" class="project-img-parameters img-size-full" alt="NFT-protect-1">
+- <img src="/img/NFTprotect/NFTprotect-3.webp" class="project-img-parameters img-size-full" alt="NFT-protect-1">
 ---
 
 Creating a brand and website for the yan conservation service "NFT Protect".
+<a href="https://nftprotect.app/" target="_blank">Go to site</a>

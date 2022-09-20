@@ -32,9 +32,9 @@ layout: meta-info
         </div>
       </div>
       <div class="project-img-container">
-        {% for image_url in page.images %}
-        <img class="project-img-big" src="{{ image_url }}" alt="{{page.title}}-img">
-        {% endfor %}
+        {{page.images}}
+<!--        <img class="project-img-big" src="{{ image_url }}"alt="{{page.title}}-img">-->
+<!--        <img class="project-img-big" src="{{ image_url }}"alt="{{page.title}}-img">-->
       </div>
     </div>
   </div>
