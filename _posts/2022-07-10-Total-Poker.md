@@ -6,7 +6,7 @@ date:   2022-07-10 00:59:00
 categories: Projects Brand-Identity
 thumbnail: /img/Total-Poker/Total-Poker-thumbnail.png
 projectend: 2022 SUMMER
-thumbnail-class: project-thumbnail-container block-size-m
+thumbnail-class: project-thumbnail-container block-size-l
 images:
 - /img/poker/
 ---
