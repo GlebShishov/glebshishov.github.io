@@ -13,6 +13,19 @@ images:
 - <img src="/img/Dream-island/Dream-island-3.webp" class="project-img-parameters img-size-full" alt="Dream-island-3">
 - <img src="/img/Dream-island/Dream-island-4.webp" class="project-img-parameters img-size-full" alt="Dream-island-4">
 - <img src="/img/Dream-island/Dream-island-5.webp" class="project-img-parameters img-size-full" alt="Dream-island-5">
+- <img src="/img/Dream-island/Dream-island-6.webp" class="project-img-parameters img-size-full" alt="Dream-island-1">
+- <img src="/img/Dream-island/Dream-island-7.webp" class="project-img-parameters img-size-full" alt="Dream-island-1">
+- <img src="/img/Dream-island/Dream-island-8.webp" class="project-img-parameters img-size-full" alt="Dream-island-1">
+- <img src="/img/Dream-island/Dream-island-9.webp" class="project-img-parameters img-size-half" alt="Dream-island-1">
+- <img src="/img/Dream-island/Dream-island-10.webp" class="project-img-parameters img-size-half" alt="Dream-island-1">
+- <img src="/img/Dream-island/Dream-island-11.webp" class="project-img-parameters img-size-full" alt="Dream-island-1">
+- <img src="/img/Dream-island/Dream-island-12.webp" class="project-img-parameters img-size-half" alt="Dream-island-1">
+- <img src="/img/Dream-island/Dream-island-13.webp" class="project-img-parameters img-size-half" alt="Dream-island-1">
+- <img src="/img/Dream-island/Dream-island-14.webp" class="project-img-parameters img-size-tri" alt="Dream-island-1">
+- <img src="/img/Dream-island/Dream-island-15.webp" class="project-img-parameters img-size-tri" alt="Dream-island-1">
+- <img src="/img/Dream-island/Dream-island-16.webp" class="project-img-parameters img-size-tri" alt="Dream-island-1">
+
+
 ---
 Creation of a variant of visual identity of the amusement park brand.
 
