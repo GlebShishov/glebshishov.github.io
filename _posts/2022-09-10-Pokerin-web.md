@@ -12,5 +12,6 @@ images:
 - <img src="/img/Pokerin-web/Pokerin-web-2.webp" class="project-img-parameters img-size-full" alt="Pokerin-web-2">
 - <img src="/img/Pokerin-web/Pokerin-web-3.webp" class="project-img-parameters img-size-full" alt="Pokerin-web-3">
 - <img src="/img/Pokerin-web/Pokerin-web-4.webp" class="project-img-parameters img-size-full" alt="Pokerin-web-4">
+- <img src="/img/Pokerin-web/Pokerin-web-4.webp" class="project-img-parameters img-size-full" alt="Pokerin-web-4">
 ---
 Pokerin web game client 
