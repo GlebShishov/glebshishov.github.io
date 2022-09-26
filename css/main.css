@@ -859,7 +859,7 @@ p {
 
 .project-swap-container {
     position: fixed;
-    bottom: 30%;
+    bottom: 24px;
 
 
     width: 100%;
@@ -1183,8 +1183,6 @@ p {
 .img-size-tri{
     width: calc(30% - 1vw);
     flex-grow: 2;
-    max-height: fit-content;
-    object-fit: cover;
 }
 @media (max-width: 375px) {
     .img-size-half{
