@@ -2,8 +2,7 @@
 layout: meta-info
 ---
 <div class="wrapper">
-  <div class="container">
-    <div class="project-swap-container">
+    <div class="project-swap-container container">
       <a class="project-swap-button" href="{{page.next.url}}">
         <img src="/img/icon/arrow-left.svg">
       </a>
@@ -13,27 +12,30 @@ layout: meta-info
     </div>
   </div>
 </div>
-<div class="wrapper top-padding">
-    <div class="container project-container">
-      <div class="project-info-container">
-        <div class="project-page-info">
-          <p class="project-name">{{ page.title }}</p>
-          <p class="projet-type">{{ page.subtitle }}</p>
-          {{ content }}
-          <div class="stats-container">
-            <div class="info-container">
-              <div class="info-line"></div>
-              <div class="info-stats">
-                <p class="info-sub">125 projects</p>
-                <p class="info-time">{{ page.projectend }}</p>
-              </div>
+<div class="content top-padding">
+  <div class="left">
+    <div class="project-info-container">
+      <div class="project-page-info">
+        <p class="project-name">{{ page.title }}</p>
+        <p class="projet-type">{{ page.subtitle }}</p>
+        {{ content }}
+        <div class="stats-container">
+          <div class="info-container">
+            <div class="info-line"></div>
+            <div class="info-stats">
+              <p class="info-sub">12</p>
+              <p class="info-time">{{ page.projectend }}</p>
             </div>
           </div>
         </div>
       </div>
-      <div class="project-img-container">
-        {{page.images}}
-<!--        <img class="project-img-big" src="{{ image_url }}"alt="{{page.title}}-img">-->
-      </div>
     </div>
   </div>
+  <div class="project-container">
+    <div class="project-img-container">
+      {{page.images}}
+      <!--        <img class="project-img-big" src="{{ image_url }}"alt="{{page.title}}-img">-->
+    </div>
+  </div>
+  <div class="right"></div>
+</div>

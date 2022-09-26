@@ -429,8 +429,8 @@ figure {
 }
 
 .project-name {
-    font-size: 52px;
-    line-height: 57px;
+    font-size: 32px;
+    line-height: 38px;
     font-variation-settings: 'wght' 700, "widh" 100, "Xtra" 468, "Xopq" 96, "Yopq" 79, "Ytlc" 514, "Ytas" 750, "Ytde" -203;
     word-break: break-word;
 }
@@ -438,7 +438,7 @@ figure {
 .projet-type {
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;
+    font-size: 20px;
     line-height: 32px;
     color: #AEA8A8;
 }
@@ -804,10 +804,8 @@ p {
 .project-info-container {
     width: 100%;
     height: 100%;
-    max-width: 280px;
     /*width: 20%;*/
     z-index: 1;
-    position: sticky;
     top: 64px;
     display: flex;
     flex-direction: column;
@@ -825,23 +823,11 @@ p {
 
 .project-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     gap: 24px;
-}
-
-@media (max-width: 1024px) {
-    .project-container {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .project-info-container {
-        width: 100%;
-        max-width: 100%;
-        /*z-index: 1;*/
-        position: inherit;
-    }
-
+    max-width: 1440px;
+    margin-left: clamp(12px,1vw,2vw);
+    margin-right: clamp(12px,1vw,2vw);
 }
 
 .project-img-big {
@@ -870,56 +856,14 @@ p {
     position: absolute;
 }
 
-@media (min-width: 1024px) {
-    .project-swap-container {
-        max-width: 280px;
-        padding: 0 48px 0 0;
-    }
-
-    .project-swap-button {
-        width: 100%;
-        max-width: 100%;
-    }
-}
-
-
-@media (min-width: 320px) {
-    .project-swap-container {
-        padding: 0 24px 0 0;
-    }
-}
-
-@media (min-width: 375px) {
-    .project-swap-container {
-        padding: 0 24px 0 0;
-    }
-}
-
-@media (min-width: 425px) {
-    .project-swap-container {
-        padding: 0 24px 0 0;
-    }
-}
-
-
-@media (min-width: 768px) {
-    .project-swap-container {
-        padding: 0 24px 0 0;
-    }
-}
-
-@media (min-width: 1024px) {
-    .project-swap-container {
-        padding: 0 48px 0 0;
-    }
-}
 
 .project-swap-container {
     position: fixed;
-    bottom: 10px;
+    bottom: 30%;
 
 
     width: 100%;
+    max-width: 1800px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -933,17 +877,20 @@ p {
     align-items: center;
     padding: 16px;
     /*width: 100%;*/
+    width: 100px;
 
     flex-direction: row;
 
     border-radius: 100px;
-    border: solid 1px white;
+    border: solid 1px rgba(256,256,256, 0.2);
+    opacity: 0.5;
 
     /*background-color: var(--background);*/
 }
 
 .project-swap-button:hover {
     background-color: black;
+    opacity: 1.0;
 }
 
 
@@ -1247,5 +1194,33 @@ p {
     }
 }
 
+.content{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: clamp(6px, 1vw,1vw);
+    padding-right: clamp(6px, 1vw,1vw);
+}
 
+.left {
+    width: 200px;
+    flex-shrink: 0;
+    top: 50px;
+    position: sticky;
+    height: calc(100vh - 50px);
+}
 
+.right {
+    width: 200px;
+}
+@media screen and (max-width: 1000px) {
+    .right {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .left {
+        display: none;
+    }
+}
