@@ -9,7 +9,6 @@ video {
     object-fit: cover;
 }
 
-
 :root {
     --background: #15171D;
     --text-color: #B8B8B8;
@@ -133,7 +132,7 @@ p {
 .block-size-l {
     /*width: 100%;*/
     /*max-width: 888px;*/
-    height: 736px;
+    height: 582px;
     flex-grow: 2;
 }
 
@@ -153,7 +152,7 @@ p {
 
     .block-size-l {
         width: 100%;
-        height: 350px;
+        height: 280px;
     }
 
     .block-size-xl {
@@ -213,7 +212,7 @@ p {
 
     .block-size-l {
         width: 300px;
-        height: 50vh;
+        height: 400px;
     }
 
     .project-line-info {
@@ -232,6 +231,7 @@ p {
     .block-size-l {
         width: 100%;
         max-width: 49.37%;
+        height: 350px;
     }
 }
 
@@ -1183,6 +1183,8 @@ p {
 .img-size-tri{
     width: calc(30% - 1vw);
     flex-grow: 2;
+    max-height: fit-content;
+    object-fit: cover;
 }
 @media (max-width: 375px) {
     .img-size-half{
