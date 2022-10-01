@@ -5,6 +5,7 @@
     font-family: "OpenSans-Variable";
     src: url("/fonts/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf");
 }
+
 video {
     object-fit: cover;
 }
@@ -122,6 +123,7 @@ p {
     object-fit: cover;
     object-position: center;
 }
+
 .block-size-m {
     width: 100%;
     /*max-width: 432px;*/
@@ -826,8 +828,8 @@ p {
     flex-direction: column;
     gap: 24px;
     max-width: 1440px;
-    margin-left: clamp(12px,1vw,2vw);
-    margin-right: clamp(12px,1vw,2vw);
+    margin-left: clamp(12px, 1vw, 2vw);
+    margin-right: clamp(12px, 1vw, 2vw);
 }
 
 .project-img-big {
@@ -882,7 +884,7 @@ p {
     flex-direction: row;
 
     border-radius: 100px;
-    border: solid 1px rgba(256,256,256, 0.2);
+    border: solid 1px rgba(256, 256, 256, 0.2);
     opacity: 0.5;
 
     /*background-color: var(--background);*/
@@ -1160,7 +1162,7 @@ p {
     align-items: flex-start;
 }
 
-.triptich{
+.triptich {
     width: 32.2%;
     height: 80vh;
     background-color: black;
@@ -1168,38 +1170,42 @@ p {
 }
 
 
-.project-img-parameters{
-    border-radius: clamp(4px,1vw,16px);
+.project-img-parameters {
+    border-radius: clamp(4px, 1vw, 16px);
 }
 
-.img-size-full{
+.img-size-full {
     width: 100%;
     flex-grow: 2;
 }
-.img-size-half{
+
+.img-size-half {
     width: calc(50.5% - 1vw);
     flex-grow: 2;
 }
-.img-size-tri{
+
+.img-size-tri {
     width: calc(30% - 1vw);
     flex-grow: 2;
 }
+
 @media (max-width: 375px) {
-    .img-size-half{
+    .img-size-half {
         width: 100%;
     }
-    .img-size-tri{
+
+    .img-size-tri {
         width: 100%;
         object-fit: cover;
     }
 }
 
-.content{
+.content {
     width: 100%;
     display: flex;
     justify-content: space-between;
-    padding-left: clamp(6px, 1vw,1vw);
-    padding-right: clamp(6px, 1vw,1vw);
+    padding-left: clamp(6px, 1vw, 1vw);
+    padding-right: clamp(6px, 1vw, 1vw);
 }
 
 .left {
@@ -1213,6 +1219,7 @@ p {
 .right {
     width: 200px;
 }
+
 @media screen and (max-width: 1000px) {
     .right {
         display: none;
