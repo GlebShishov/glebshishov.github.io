@@ -8,25 +8,17 @@ thumbnail: /img/Dronefinder/drone-thumbnail.webp
 projectend: 2021 winter
 thumbnail-class: project-thumbnail-container block-size-l
 images:
-- /img/Dronefinder/drone-1.webp
-- /img/Dronefinder/drone-2.webp
-- /img/Dronefinder/drone-3.webp
-- /img/Dronefinder/drone-4.webp
-- /img/Dronefinder/drone-anim-fly.webm
-- /img/Dronefinder/drone-anim-2.mp4
-- /img/Dronefinder/drone-5.webp
-- /img/Dronefinder/drone-6.webp
-- /img/Dronefinder/drone-7.webp
-- /img/Dronefinder/drone-8.webp
-- /img/Dronefinder/drone-9.webp
-- /img/Dronefinder/drone-10.webp
-- /img/Dronefinder/drone-11.webp
-- /img/Dronefinder/drone-12.webp
-- /img/Dronefinder/drone-13.webp
-- /img/Dronefinder/drone-14.webp
-- /img/Dronefinder/drone-15.webp
-- 
-- 
+- <img src="/img/Dronefinder/drone-1.webp" class="project-img-parameters img-size-full" alt="Dronefinder-1">
+- <img src="/img/Dronefinder/drone-2.webp" class="project-img-parameters img-size-full" alt="Dronefinder-2">
+- <video muted="muted" loop="loop" autoplay class="project-img-parameters img-size-tri"> <source src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Dronefinder/drone-anim-fly.webm"></video>
+- <img src="/img/Dronefinder/drone-3.webp" class="project-img-parameters img-size-full" alt="Dronefinder-3">
+- <img src="/img/Dronefinder/drone-4.webp" class="project-img-parameters img-size-full" alt="Dronefinder-4">
+- <video muted="muted" loop="loop" autoplay class="project-img-parameters img-size-tri"> <source src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Dronefinder/drone-anim-patter.mp4"></video>
+- <img src="/img/Dronefinder/drone-5.webp" class="project-img-parameters img-size-full" alt="Dronefinder-1">
+- <img src="/img/Dronefinder/drone-6.webp" class="project-img-parameters img-size-full" alt="Dronefinder-1">
+- <img src="/img/Dronefinder/drone-7.webp" class="project-img-parameters img-size-full" alt="Dronefinder-1">
+- <img src="/img/Dronefinder/drone-8.webp" class="project-img-parameters img-size-full" alt="Dronefinder-1">
+- <img src="/img/Dronefinder/drone-9.webp" class="project-img-parameters img-size-full" alt="Dronefinder-1">
 ---
 
 Creating a visual brand identity for a drone flight service.
