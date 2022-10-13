@@ -258,7 +258,7 @@ p {
 
     .block-size-l {
         width: 800px;
-        max-width: 888px;
+        max-width: 50%;
         /*width: calc(50%- 24px);*/
         height: 700px;
     }

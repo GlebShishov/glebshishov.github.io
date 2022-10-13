@@ -1,10 +1,10 @@
 ---
 layout: project-template
 title:  "Fusion Punks"
-subtitle: Brand identity+web design
+subtitle: NFT Collection
 date:   2022-03-10 00:59:00
-categories: Projects Brand-identity
-thumbnail: https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Fussion-Punks-Brand/FP-brand-thumbnail.jpg
+categories: Projects nft
+thumbnail: https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Fussion-Punks-Collection/FP-collection-thumbnail.jpg
 projectend: 2022 Spring
 thumbnail-class: project-thumbnail-container block-size-l
 images:
