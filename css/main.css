@@ -820,7 +820,7 @@ p {
     flex-direction: row;
     flex-wrap: wrap;
     /*gap: clamp(8px,1vw,24px);*/
-    gap: 1vw;
+    gap: 2px;
 }
 
 .project-container {
@@ -1172,6 +1172,7 @@ p {
 
 .project-img-parameters {
     border-radius: clamp(4px, 1vw, 16px);
+    object-fit: cover;
 }
 
 .img-size-full {

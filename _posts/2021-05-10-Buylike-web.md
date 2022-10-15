@@ -8,6 +8,6 @@ thumbnail: /img/Buylike-Web/Buylike-Web-thumbnail.png
 projectend: 2022 Spring
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- /img/Buylike/buylike-1.webp
+- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Buylike/Buylike-1.webp" class="project-img-parameters img-size-full" alt=Bank-2">
 ---
 Web interface design for a service to sell products on the marketplace
