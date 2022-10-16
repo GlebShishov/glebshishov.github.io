@@ -4,7 +4,7 @@ title:  "Dronefinder"
 subtitle: Brand Identity
 date:   2021-01-10 00:59:00
 categories: Projects Brand-identity
-thumbnail: /img/Dronefinder/drone-thumbnail.webp
+thumbnail: https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Dronefinder/drone-thumbnail.webp
 projectend: 2021 winter
 thumbnail-class: project-thumbnail-container block-size-l
 images:
