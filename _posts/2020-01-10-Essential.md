@@ -4,25 +4,25 @@ title:  "Essential Aqua"
 subtitle: 
 date:   2020-01-10 00:59:00
 categories: FMCG package design
-thumbnail: https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-1.webp
+thumbnail: https://cdn.shishov.me/glebshishov/Essential/Essential-1.webp
 projectend: 2020 winter
 thumbnail-class: project-thumbnail-container block-size-l
 images:
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-1.webp" class="project-img-parameters img-size-full" alt="Essential-1">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-2.webp" class="project-img-parameters img-size-full" alt="Essential-2">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-3.webp" class="project-img-parameters img-size-full" alt="Essential-3">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-4.webp" class="project-img-parameters img-size-full" alt="Essential-4">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-5.webp" class="project-img-parameters img-size-full" alt="Essential-5">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-6.webp" class="project-img-parameters img-size-tri" alt="Essential-6">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-7.webp" class="project-img-parameters img-size-tri" alt="Essential-7">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-8.webp" class="project-img-parameters img-size-tri" alt="Essential-8">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-2.webp" class="project-img-parameters img-size-half" alt="Essential-2">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-3.webp" class="project-img-parameters img-size-half" alt="Essential-3">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-4.webp" class="project-img-parameters img-size-half" alt="Essential-4">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-5.webp" class="project-img-parameters img-size-half" alt="Essential-5">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-9.webp" class="project-img-parameters img-size-tri" alt="Essential-9">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-8.webp" class="project-img-parameters img-size-tri" alt="Essential-8">
-- <img src="https://sh-registry.ams3.digitaloceanspaces.com/glebshishov/Essential/Essential-8.webp" class="project-img-parameters img-size-tri" alt="Essential-8">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-1.webp" class="project-img-parameters img-size-full" alt="Essential-1">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-2.webp" class="project-img-parameters img-size-full" alt="Essential-2">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-3.webp" class="project-img-parameters img-size-full" alt="Essential-3">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-4.webp" class="project-img-parameters img-size-full" alt="Essential-4">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-5.webp" class="project-img-parameters img-size-full" alt="Essential-5">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-6.webp" class="project-img-parameters img-size-tri" alt="Essential-6">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-7.webp" class="project-img-parameters img-size-tri" alt="Essential-7">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-8.webp" class="project-img-parameters img-size-tri" alt="Essential-8">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-2.webp" class="project-img-parameters img-size-half" alt="Essential-2">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-3.webp" class="project-img-parameters img-size-half" alt="Essential-3">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-4.webp" class="project-img-parameters img-size-half" alt="Essential-4">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-5.webp" class="project-img-parameters img-size-half" alt="Essential-5">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-9.webp" class="project-img-parameters img-size-tri" alt="Essential-9">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-8.webp" class="project-img-parameters img-size-tri" alt="Essential-8">
+- <img src="https://cdn.shishov.me/glebshishov/Essential/Essential-8.webp" class="project-img-parameters img-size-tri" alt="Essential-8">
 ---
 
 About project
