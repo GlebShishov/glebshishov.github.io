@@ -332,7 +332,7 @@ figure {
 .nav-bar-right {
     display: flex;
     flex-direction: row;
-    gap: clamp(14px, 2vw, 18px);
+    /*gap: clamp(14px, 2vw, 18px);*/
     align-items: center;
     justify-content: end;
 }
