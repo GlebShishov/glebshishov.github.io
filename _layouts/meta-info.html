@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{% endif %}</title>
+<!--  {{ site.title }}-->
   <link rel="manifest" href="/site.webmanifest">
   <link rel="apple-touch-icon" href="/icon.png">
   <link rel="stylesheet" href="/css/main.css" media="all">
@@ -11,7 +12,7 @@
   <link rel="shortcut icon" href="/favicon.ico">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="image_src" href="/site-thumbnail.jpg">
+  <link rel="image_src" href="/site-thumbnail.jpg" {% post.thumbnail %}>
   <link rel="canonical" href="https://gleb.shishov.me/">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
