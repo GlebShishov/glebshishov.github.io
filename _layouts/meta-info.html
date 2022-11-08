@@ -31,7 +31,11 @@
   <meta property="og:type" content="article">
   <meta property="og:title" content="Gleb Shishov Portfolio">
   <meta property="og:description" content="Gleb Shishov,art director and head of design. Co-founder of 'Theoretical Studio' game studio. Co-founder of the NFT services 'Fusion Punks'. 6 years of experience in design, developed products for large corporations and startups.">
+  {% if page.thumbnail %}
+  <meta property="og:image" content="{{ page.thumbnail }}">
+  {% else %}
   <meta property="og:image" content="/site-thumbnail.jpg">
+  {% endilf %}
   <meta property="og:url" content="https://gleb.shishov.me/">
   <meta property="og:site_name" content="Gleb Shishov Portfolio">
   <meta name="twitter:card" content="summary_large_image">
