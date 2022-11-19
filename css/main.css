@@ -455,6 +455,7 @@ p {
 .container {
     width: 100%;
     max-width: 1800px;
+    padding: clamp(8px, 2vw, 16px)
 }
 
 .welcome-big {
@@ -772,7 +773,7 @@ p {
 
 .info-skills-block {
     width: 100%;
-    max-width: 432px;
+    /*max-width: 432px;*/
     flex-grow: 2;
     display: flex;
     flex-direction: column;
@@ -809,7 +810,8 @@ p {
 }
 
 .about-container-info {
-    width: 432px;
+    width: 100%;
+    max-width: 500px;
     display: flex;
     flex-direction: column;
     gap: 24px;
@@ -909,4 +911,24 @@ p {
 
 .right {
     width: 200px;
+}
+
+
+.card {
+    /*padding: 10px;*/
+}
+
+.news-cards {
+    padding-top: 20vh;
+    display: grid;
+    /*grid-template-columns: repeat(auto-fit, minmax(100px, 300px));*/
+    grid-template-columns: 1fr;
+    /*grid-template-columns: 80px repeat(2, minmax(30px, 1fr)) 30fr;*/
+    gap: var(--grid-gap);
+}
+
+.news-cards .card {
+    /*border: solid 2px green;*/
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
