@@ -4,7 +4,7 @@ title:  "Yobidoyobi"
 subtitle: Mobile APP
 date:   2021-09-08 00:59:00
 categories: Projects Apps
-thumbnail: /img/YobiDoyobi/YobiDoyobi-thumbnail.png
+thumbnail: https://cdn.shishov.me/glebshishov/YobiDoyobi/YobiDoyobi_01_Thumbnail.jpg
 projectend: 2021 sent
 thumbnail-class: project-thumbnail-container block-size-m
 images:
