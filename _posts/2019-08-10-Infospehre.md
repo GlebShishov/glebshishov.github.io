@@ -4,7 +4,7 @@ title:  "Infosphere"
 subtitle: Game
 date:   2019-08-10 00:59:00
 categories: Projects Games
-thumbnail: /img/Infosphere/Infosphere-thumbnail.png
+thumbnail: https://cdn.shishov.me/glebshishov/Infosphere/Infosphere-thumbnail.png
 projectend: 2019 Summer
 thumbnail-class: project-thumbnail-container block-size-m
 images:

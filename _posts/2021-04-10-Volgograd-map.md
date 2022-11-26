@@ -4,7 +4,7 @@ title:  "Volgograd"
 subtitle: 3d map
 date:   2021-04-10 00:59:00
 categories: Projects Art
-thumbnail: /img/Volgograd-map/Volgograd-Thumbnail.webp
+thumbnail: https://cdn.shishov.me/glebshishov/Volgograd-map/Volgograd-Thumbnail.webp
 projectend: 2021 fall
 thumbnail-class: project-thumbnail-container block-size-m
 images:

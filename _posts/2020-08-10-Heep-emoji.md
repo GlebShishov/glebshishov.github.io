@@ -4,7 +4,7 @@ title:  "Heep emoji"
 subtitle: Product design
 date:   2020-08-10 00:59:00
 categories: Projects Brand-identity
-thumbnail: /img/Heep-Emoji/Heep-Emoji-thumbnail.png
+thumbnail: https://cdn.shishov.me/glebshishov/Heep-Emoji/Heep-Emoji-thumbnail.png
 projectend: 2020 SUMMER
 thumbnail-class: project-thumbnail-container block-size-m
 images:

@@ -4,7 +4,7 @@ title:  "Moscow day"
 subtitle: Exebition
 date:   2021-08-10 00:59:00
 categories: Projects Exhibitions
-thumbnail: /img/Day-of-Moscow/Day-of-Moscow-thumbnail.png
+thumbnail: https://cdn.shishov.me/glebshishov/Day-of-Moscow/Day-of-Moscow-thumbnail.png
 projectend: 2021 Summer
 thumbnail-class: project-thumbnail-container block-size-m
 images:

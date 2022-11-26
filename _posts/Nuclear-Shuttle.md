@@ -4,7 +4,7 @@ title:  "Nuclear Shuttle"
 subtitle: Game
 date:   2022-04-10 00:59:00
 categories: Projects games
-thumbnail: /img/Nuclear-Shuttle/Nuclear-Shuttle-thumbnail.png
+thumbnail: https://cdn.shishov.me/glebshishov/Nuclear-Shuttle/Nuclear-Shuttle-thumbnail.png
 projectend: 2022 Spring
 thumbnail-class: project-thumbnail-container block-size-m
 images:

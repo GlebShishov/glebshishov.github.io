@@ -4,7 +4,7 @@ title:  "Bathub Admirals"
 subtitle: Game
 date:   2020-09-10 00:59:00
 categories: Projects Games
-thumbnail: /img/Bathub-Admirals/Bathub-Admirals-thumbnail.png
+thumbnail: https://cdn.shishov.me/glebshishov/Bathub-Admirals/Bathub-Admirals-thumbnail.png
 projectend: 2022 SUMMER
 thumbnail-class: project-thumbnail-container block-size-m
 images:

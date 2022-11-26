@@ -4,7 +4,7 @@ title:  "Humster Drumma"
 subtitle: Game
 date:   2019-01-10 00:59:00
 categories: Projects Games
-thumbnail: /img/Humster-Drumma/Humster-Drumma-thumbnail.png
+thumbnail: https://cdn.shishov.me/glebshishov/Humster-Drumma/Humster-Drumma-thumbnail.png
 projectend: 2019 Winter
 thumbnail-class: project-thumbnail-container block-size-m
 images:

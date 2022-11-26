@@ -4,7 +4,7 @@ title:  "Essential Aqua"
 subtitle: 
 date:   2020-01-10 00:59:00
 categories: FMCG package design
-thumbnail: https://cdn.shishov.me/glebshishov/Essential/Essential-1.webp
+thumbnail: https://cdn.shishov.me/glebshishov/Essential/Essential-thumbnail.webp
 projectend: 2020 winter
 thumbnail-class: project-thumbnail-container block-size-l
 images:

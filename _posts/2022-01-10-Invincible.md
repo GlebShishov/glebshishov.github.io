@@ -4,7 +4,7 @@ title:  "Invincible"
 subtitle: NFT collection
 date:   2022-01-10 00:59:00
 categories: Projects NFT
-thumbnail: /img/Invincible/Invincible-thumbnail.webp
+thumbnail: https://cdn.shishov.me/glebshishov/Invincible/Invincible-thumbnail.webp
 projectend: 2022 winter
 thumbnail-class: project-thumbnail-container block-size-m
 images:
