@@ -4,7 +4,7 @@ title:  "Fusion Punks"
 subtitle: NFT Collection
 date:   2022-03-10 00:59:00
 categories: Projects nft
-thumbnail: https://cdn.shishov.me/glebshishov/Fusion-Punks-Collection/FP-collection-thumbnail.jpg
+thumbnail: https://cdn.shishov.me/glebshishov/Fussion-Punks-Collection/FP-collection-thumbnail.jpg
 projectend: 2022 Spring
 thumbnail-class: project-thumbnail-container block-size-l
 images:
