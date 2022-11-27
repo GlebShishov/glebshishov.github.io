@@ -8,6 +8,7 @@ thumbnail: https://cdn.shishov.me/glebshishov/Factory-tube/Factory-tube-thumbnai
 projectend: 2020 Fall
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- /img/poker/
+- <img src="https://cdn.shishov.me/glebshishov/Factory-tube/Factor-tube-1.jpg" class="project-img-parameters img-size-full" alt="Factory-Tube-1">
+- <img src="https://cdn.shishov.me/glebshishov/Factory-tube/Factor-tube-2.jpg" class="project-img-parameters img-size-full" alt="Factory-Tube-1">
 ---
 3d visualization of the Yamal energy warehouse of gas pipes

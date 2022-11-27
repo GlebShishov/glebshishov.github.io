@@ -8,7 +8,7 @@ thumbnail: https://cdn.shishov.me/glebshishov/Fussion-Punks-Collection/FP-collec
 projectend: 2022 Spring
 thumbnail-class: project-thumbnail-container block-size-l
 images:
-- /img/poker/
+- <img src="https://cdn.shishov.me/glebshishov/Fussion-Punks-Collection/FP-Collection-1.jpg" class="project-img-parameters img-size-full" alt="FP-Collection-1">
 ---
 
 Creating 256 unique items for the NFT collection

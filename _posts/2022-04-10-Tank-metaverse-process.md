@@ -8,7 +8,7 @@ thumbnail: https://cdn.shishov.me/glebshishov/Tank-Metaverse-Breakdown/Tank-Meta
 projectend: 2022 winter
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- /img/poker/
+- <img src="https://cdn.shishov.me/glebshishov/Tank-Metaverse-Breakdown/Tank-break-1.jpg" class="project-img-parameters img-size-full" alt="Tank-brake-1">
 ---
 
 Step-by-step illustration creation for the Tank Metaverse

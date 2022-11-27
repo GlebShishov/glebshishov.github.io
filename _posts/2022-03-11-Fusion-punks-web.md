@@ -8,7 +8,7 @@ thumbnail: https://cdn.shishov.me/glebshishov/Fussion-Punks-Web/FP-web-thumbnail
 projectend: 2022 Spring
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- /img/poker/
+- <img src="https://cdn.shishov.me/glebshishov/Fussion-Punks-Web/Fp-web-1.jpg" class="project-img-parameters img-size-full" alt="FP-Web-1">
 ---
 
 Fusion Punks

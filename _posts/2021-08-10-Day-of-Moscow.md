@@ -8,6 +8,6 @@ thumbnail: https://cdn.shishov.me/glebshishov/Day-of-Moscow/Day-of-Moscow-thumbn
 projectend: 2021 Summer
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- /img/poker/
+- <img src="https://cdn.shishov.me/glebshishov/Day-of-Moscow/Moscow-day-1.jpg" class="project-img-parameters img-size-full" alt="Moscow-1">
 ---
 3d presentation of pavilions of modern technology for the birthday of Moscow. The exhibition is dedicated to the achievements of various industries in Russia.

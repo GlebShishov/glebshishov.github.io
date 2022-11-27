@@ -8,7 +8,7 @@ thumbnail: https://cdn.shishov.me/glebshishov/Smart-Pole/Smart-Pole-thumbnail.pn
 projectend: 2021 Summer
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- /img/poker/
+- <img src="https://cdn.shishov.me/glebshishov/Smart-Pole/Smartpole-1.jpg" class="project-img-parameters img-size-full" alt="Smart-Pole-1">
 ---
 
 Industrial design of smart poles.
