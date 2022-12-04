@@ -8,6 +8,7 @@ thumbnail: https://cdn.shishov.me/glebshishov/Pitchdecks/pitchdeck-thumbnail.jpg
 projectend: 2022 Spring
 thumbnail-class: project-thumbnail-container block-size-m
 images:
+- <img src="https://cdn.shishov.me/glebshishov/Pitchdecks/Pitchdecks-00.webp" class="project-img-parameters img-size-full" alt="Pitch-0">
 - <img src="https://cdn.shishov.me/glebshishov/Pitchdecks/Pitchdecks-01.webp" class="project-img-parameters img-size-full" alt="Pitch-1">
 - <img src="https://cdn.shishov.me/glebshishov/Pitchdecks/Pitchdecks-02.webp" class="project-img-parameters img-size-full" alt="Pitch-2">
 - <img src="https://cdn.shishov.me/glebshishov/Pitchdecks/Pitchdecks-03.webp" class="project-img-parameters img-size-full" alt="Pitch-3">
