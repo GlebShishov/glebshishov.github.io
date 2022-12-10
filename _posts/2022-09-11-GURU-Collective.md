@@ -25,4 +25,5 @@ images:
 ---
 
 Branding, Website, event design.
-GURU Collective is an expert community in the Web3 industry. 
+GURU Collective is an expert community in the Web3 industry.
+<a href="https://gurucollective.xyz/" target="_blank">Go to site</a>
