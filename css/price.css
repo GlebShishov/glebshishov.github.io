@@ -1,0 +1,325 @@
+/*span{*/
+/*    color: #2C2C2C;*/
+/*}*/
+
+.service-background{
+    background: #CCCCCC;
+}
+
+.service-container{
+    width: 100%;
+    max-width: 1440px;
+    /*max-width: 464px;*/
+}
+.service-welcome-header{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: clamp(1rem,4vw,34px);
+    line-height: 100%;
+
+    color: #2C2C2C;
+}
+
+.service-container-list{
+    /*width: 100%;*/
+    /*display: flex;*/
+    /*gap: 24px;*/
+    /*flex-direction: row;*/
+    /*flex-wrap: wrap;*/
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /*grid-template-columns: 1fr;*/
+    grid-gap: 2%;
+}
+
+.calendar{
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    /*gap: 4%;*/
+    flex-direction: row;
+}
+.calendar-day{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-direction: column;
+}
+.calendar-check{
+    width: 24px;
+    height: 25px;
+    left: 1px;
+    top: 87px;
+
+    background: #7B65FF;
+    border-radius: 5px;
+}
+
+.service{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 464px;
+    /*height: 427px;*/
+
+    background: #FFFFFF;
+    border-radius: 7px;
+    /*height: fit-content;*/
+}
+.service-header-block{
+    border-radius: 6px 6px 0px 0px;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    padding: 30px;
+    background: red;
+}
+.service-header{
+    /*padding: 30px;*/
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #2C2C2C;
+}
+
+.service-info{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /*align-items: center;*/
+    padding: 12px 25px 24px;
+    gap: 32px;
+}
+
+.service-list{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.service-line{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 5px 0;
+    justify-content: space-between;
+    /*gap: 60px;*/
+
+    width: 100%;
+
+    border-bottom: 1px solid #DCDCDC;
+}
+.service-line-first{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.service-primary-button{
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px 33px;
+    gap: 10px;
+    background: #000000;
+    border-radius: 36px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+}
+.service-action-block{
+    width: 100%;
+    display: flex;
+    /*align-items: flex-start;*/
+    justify-content: center;
+    gap: 20%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+.service-navigation-button{
+    color: var(--background);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 22px;
+    gap: 10px;
+
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+
+.service-navigation-button:hover {
+    background-color: black;
+    color: white;
+}
+
+.service-navigation-container{
+    flex-wrap: wrap;
+    width: 100%;
+    display: flex;
+    gap: 8px 6px;
+}
+
+.service-search-container{
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    flex-direction: column;
+
+}
+.service-work-about-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /*justify-content: center;*/
+    align-items: center;
+    /*padding: 35px 85px;*/
+    /*padding-left: clamp(12px,4vw, 85px);*/
+    /*padding-right: clamp(12px,4vw, 85px);*/
+    padding: clamp(12px,2vw, 35px) clamp(12px,4vw, 85px);
+    gap: 5vw;
+
+
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+.service-payment-block{
+    background: #F5F5F5;
+    border-radius: 7px;
+    width: 100%;
+    /*max-width: 100px;*/
+    height: 100px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    /*padding: 0px;*/
+    /*gap: 10px;*/
+    /*padding: 12px;*/
+}
+.service-payment-method-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 6px;
+}
+.work-info{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 34px;
+
+    width: 100%;
+    max-width: 422px;
+}
+.service-work-block{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+.service-time-container{
+    display: flex;
+    /*flex-wrap: wrap;*/
+    flex-direction: row;
+    align-items: center;
+    padding: 13px 17px;
+    gap: 22px;
+    background: #F5F5F5;
+    border-radius: 6px;
+}
+
+@media screen and (max-width: 375px){
+    .service-time-container{
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width:768px){
+    .service-container-list{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width:425px ){
+    .service-container-list{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+
+.service-time-watch{
+    width: auto;
+    height: clamp(120px,4vw,140px);
+}
+
+.service-tab-line{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 11px;
+    gap: 22px;
+    background: #F5F5F5;
+    border-radius: 14px;
+}
+.service-lang-container{
+    width: 100%;
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+}
+
+.currency{
+    align-items: center;
+    width: fit-content;
+    padding: 8px 11px;
+    background: #F5F5F5;
+    border-radius: 14px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 100%;
+
+
+}
+
+.service-page-currency-container{
+    display: flex;
+    width: 100%;
+    gap: 10px;
+    flex-direction: row;
+
+}
+
+.services-container{
+    padding-top: 100px;
+    display: flex;
+    gap: 24px;
+    flex-direction: column;
+}
