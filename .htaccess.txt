@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTPS/
+RewriteRule ^index\.html$ https://ВАШ САЙТ/ [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /phone/index\.html\ HTTP/
+RewriteRule ^phone/index\.html$ http://ВАШ САЙТ/phone/ [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /tablet/index\.html\ HTTP/
+RewriteRule ^tablet/index\.html$ http://ВАШ САЙТ/tablet/ [R=301,L]
