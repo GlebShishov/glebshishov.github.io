@@ -64,12 +64,18 @@
         width: 100%;
         height: 350px;
     }
+    .service-time-container{
+        flex-wrap: wrap;
+    }
 }
 
 @media screen and (min-width: 425px) {
     .about-photo {
         width: 100%;
         max-width: 100%;
+    }
+    .service-header-block{
+        background-size: contain !important;
     }
 }
 
@@ -85,6 +91,9 @@
 
     .module-height-5 {
         height: 600px !important;
+    }
+    .service-container-list{
+        grid-template-columns: repeat(1, 1fr);
     }
 }
 
@@ -143,6 +152,9 @@
         width: 100%;
         max-width: 60%;
         height: 30vh;
+    }
+    .service-container-list{
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
@@ -225,10 +237,10 @@
     .news-cards {
         grid-template-columns: repeat(2, 1fr);
     }
-    .service{
-        grid-template-columns: repeat(3, 1fr)!important;
-    }
     .service-work-about-container{
+        grid-template-columns: repeat(2, 1fr)!important;
+    }
+    .service{
         grid-template-columns: repeat(2, 1fr)!important;
     }
 }
@@ -261,10 +273,6 @@
     }
     .news-cards {
         grid-template-columns: repeat(4, 1fr);
-    }
-    .service-examples-container{
-        /*width: 100%;*/
-        width: 544px !important;
     }
 }
 

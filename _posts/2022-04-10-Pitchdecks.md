@@ -1,7 +1,7 @@
 ---
 layout: project-template
-title:  Pitchdecks
-subtitle: Projects pitchdecks
+title:  Pitch-Decks
+subtitle: Projects Pitch-Decks
 date:   2022-04-31 00:59:00
 categories: Projects Art
 thumbnail: https://cdn.shishov.me/glebshishov/Pitchdecks/pitchdeck-thumbnail.jpg
