@@ -191,6 +191,16 @@
     .news-cards {
         grid-template-columns: repeat(2, 1fr);
     }
+    /*.service{*/
+    /*    grid-template-columns: 1fr 1fr 100% !important;*/
+    /*    grid-auto-rows: auto!important;*/
+    /*}*/
+    /*.service{*/
+    /*    grid-template-columns: repeat(2, 1fr)!important;*/
+    /*}*/
+    /*.service-examples-container{*/
+    /*    grid-template-columns: repeat(4, 1fr)!important;*/
+    /*}*/
 }
 
 
@@ -214,6 +224,12 @@
     }
     .news-cards {
         grid-template-columns: repeat(2, 1fr);
+    }
+    .service{
+        grid-template-columns: repeat(3, 1fr)!important;
+    }
+    .service-work-about-container{
+        grid-template-columns: repeat(2, 1fr)!important;
     }
 }
 
@@ -245,6 +261,10 @@
     }
     .news-cards {
         grid-template-columns: repeat(4, 1fr);
+    }
+    .service-examples-container{
+        /*width: 100%;*/
+        width: 544px !important;
     }
 }
 
