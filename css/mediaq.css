@@ -213,6 +213,9 @@
     .service-header-block{
         background-size: contain !important;
     }
+    .service-examples{;
+        grid-column: span 2;
+    }
 }
 
 
