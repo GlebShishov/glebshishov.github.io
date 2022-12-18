@@ -19,6 +19,6 @@ images:
 - <img src="https://cdn.shishov.me/glebshishov/GURU-Metaverse/GURU-Metaverse-09.webp" class="project-img-parameters img-size-full" alt="Guru-Collective-Metavere-9">
 ---
 
-Branding, Website, event design.
-GURU Collective is an expert community in the Web3 industry.
-<a href="https://gurucollective.xyz/" target="_blank">Go to site</a>
+Creating a meta-universe on the spetial io platform for the events of the guru collective project.
+Peak online is 150 people.
+<a href="https://www.spatial.io/s/GURU-VILLA-63594667f3ac5700012e2a46?share=8269791068580157717" target="_blank">Go to Metaverse</a>
