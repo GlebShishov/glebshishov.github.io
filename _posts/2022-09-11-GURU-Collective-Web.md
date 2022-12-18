@@ -8,8 +8,8 @@ thumbnail: https://cdn.shishov.me/glebshishov/Guru-Collective-web/Guru-Collectiv
 projectend: 2022 Fall
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- <img src="https://cdn.shishov.me/glebshishov/Guru-Collective-web/Guru-Collective-Web-01.jpg" class="project-img-parameters img-size-full" alt="Guru-Collective-Web-1">
 - <img src="https://cdn.shishov.me/glebshishov/Guru-Collective-web/Guru-Collective-Web-02.jpg" class="project-img-parameters img-size-full" alt="Guru-Collective-Web-2">
+- <img src="https://cdn.shishov.me/glebshishov/Guru-Collective-web/Guru-Collective-Web-01.jpg" class="project-img-parameters img-size-full" alt="Guru-Collective-Web-1">
 - <img src="https://cdn.shishov.me/glebshishov/Guru-Collective-web/Guru-Collective-Web-03.jpg" class="project-img-parameters img-size-full" alt="Guru-Collective-Web-3">
 
 
