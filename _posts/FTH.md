@@ -2,7 +2,7 @@
 layout: project-template
 title:  "Food Trading Hub"
 subtitle: Brand identity
-date:   2022-08-09 00:59:00
+date:   2022-08-11 00:59:00
 categories: Projects Brand-identity
 thumbnail: /img/Metanotary/Metanotary-thumbnail.webp
 projectend: wor date 2022 SUMMER

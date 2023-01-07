@@ -2,12 +2,13 @@
 layout: project-template
 title:  "Jewxodus"
 subtitle: Website
-date:   2022-08-10 00:59:00
+date:   2022-07-10 00:59:00
 categories: Projects Website
 thumbnail: https://cdn.shishov.me/glebshishov/Jewxodus-web/Jewxodus-thumbnail.png
 projectend: 2022 summer
 thumbnail-class: project-thumbnail-container block-size-m
 images:
+- <img src="https://cdn.shishov.me/glebshishov/Jewxodus-web/Jewxodus-web-10.jpg" class="project-img-parameters img-size-full" alt="Jewxodus-web-1">
 - <img src="https://cdn.shishov.me/glebshishov/Jewxodus-web/Jewxodus-web-1.webp" class="project-img-parameters img-size-full" alt="Jewxodus-web-1">
 - <img src="https://cdn.shishov.me/glebshishov/Jewxodus-web/Jewxodus-web-2.webp" class="project-img-parameters img-size-full" alt="Jewxodus-web-2">
 - <img src="https://cdn.shishov.me/glebshishov/Jewxodus-web/Jewxodus-web-3.webp" class="project-img-parameters img-size-full" alt="Jewxodus-web-3">

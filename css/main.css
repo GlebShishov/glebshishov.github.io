@@ -932,3 +932,8 @@ p {
     text-overflow: ellipsis;
     overflow: hidden;
 }
+
+.videos-cards{
+    max-height: 255px;
+    height: 100%;
+}
