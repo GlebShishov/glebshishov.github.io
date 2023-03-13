@@ -36,7 +36,7 @@ body::-webkit-scrollbar-thumb {
 
 a {
     text-decoration: none;
-    color: blue;
+    color: #a28aff;
 }
 
 img {
@@ -753,7 +753,7 @@ p {
         --num: 0;
     }
     to {
-        --num: 60;
+        --num: 73;
     }
 }
 
