@@ -61,7 +61,7 @@ img {
 
 html {
     scroll-behavior: smooth;
-    font-family: OpenSans-Variable, sans-serif;
+    font-family: OpenSans-Variable,Roboto,sans-serif;
 }
 
 * {
