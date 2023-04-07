@@ -10,9 +10,46 @@
   "background_color": "#000000",
   "theme_color": "#000000"
 }
-"id": "/?source=pwa",
+
+{
+  "short_name": "Creative director Gleb Shishov",
+  "name": "Сервис анкетирования аудитории",
+  "icons": [
+    {
+      "src": "icons.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/?source=pwa",
   "start_url": "/?source=pwa",
   "background_color": "#000000",
   "display": "standalone",
   "scope": "/",
   "theme_color": "#000000",
+  "shortcuts": [
+    {
+      "name": "Creative director Gleb Shishov",
+      "short_name": "Creative director Gleb Shishov",
+      "description": "Сервис анкетирования аудитории",
+      "url": "/today?source=pwa",
+      "icons": [{ "src": "/images/today.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Creative director Gleb Shishov",
+      "short_name": "Creative director Gleb Shishov",
+      "description": "Creative director Gleb Shishov",
+      "url": "/tomorrow?source=pwa",
+      "icons": [{ "src": "/icon.png", "sizes": "192x192" }]
+    }
+  ],
+  "description": "Сервис анкетирования аудитории",
+  "screenshots": [
+    {
+      "src": "/images/icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "form_factor": "narrow"
+    },
+  ]
+}
