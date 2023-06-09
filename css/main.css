@@ -132,14 +132,14 @@ p {
 .block-size-m {
     width: 100%;
     /*max-width: 432px;*/
-    height: 582px;
+    /*height: 582px;*/
     flex-grow: 2;
 }
 
 .block-size-l {
     /*width: 100%;*/
     /*max-width: 888px;*/
-    height: 582px;
+    /*height: 582px;*/
     flex-grow: 2;
 }
 
@@ -727,7 +727,7 @@ p {
 
     width: 100%;
     gap: clamp(4px, 2vw, 12px);
-    align-items: end;
+    /*align-items: end;*/
 }
 
 /*noinspection CssInvalidAtRule*/
