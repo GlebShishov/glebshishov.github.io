@@ -13,7 +13,6 @@ images:
 - <img src="https://cdn.shishov.me/glebshishov/Deepest-Needs/Deepest-Needs-03.webp" class="project-img-parameters img-size-full" alt="Deepest-Needs-03">
 - <img src="https://cdn.shishov.me/glebshishov/Deepest-Needs/Deepest-Needs-04.webp" class="project-img-parameters img-size-full" alt="Deepest-Needs-04">
 - <img src="https://cdn.shishov.me/glebshishov/Deepest-Needs/Deepest-Needs-05.webp" class="project-img-parameters img-size-full" alt="Deepest-Needs-05">
-- <img src="https://cdn.shishov.me/glebshishov/Deepest-Needs/Deepest-Needs-05.webp" class="project-img-parameters img-size-full" alt="Deepest-Needs-05">
 - <img src="https://cdn.shishov.me/glebshishov/Deepest-Needs/Deepest-Needs-06.webp" class="project-img-parameters img-size-half" alt="Deepest-Needs-06">
 - <img src="https://cdn.shishov.me/glebshishov/Deepest-Needs/Deepest-Needs-07.webp" class="project-img-parameters img-size-half" alt="Deepest-Needs-07">
 - <img src="https://cdn.shishov.me/glebshishov/Deepest-Needs/Deepest-Needs-08.webp" class="project-img-parameters img-size-tri" alt="Deepest-Needs-08">
