@@ -1,7 +1,7 @@
 ---
 layout: project-template
 title:  "Hermitage of Dubai"
-subtitle: Visializtion
+subtitle: Visualization
 date:   2023-05-30 00:59:00
 categories: Project 3D
 thumbnail: https://cdn.shishov.me/glebshishov/Hermitage-of-Dubai/Hermitage-of-Dubai-thumbnail.webp
