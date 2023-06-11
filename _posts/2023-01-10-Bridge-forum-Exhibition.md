@@ -20,6 +20,8 @@ images:
 - <img src="https://cdn.shishov.me/glebshishov/Bridge-Exhibition/Bridge-Exhibition-09.webp" class="project-img-parameters img-size-half" alt="bridge-exh-09">
 - <img src="https://cdn.shishov.me/glebshishov/Bridge-Exhibition/Bridge-Exhibition-10.webp" class="project-img-parameters img-size-half" alt="bridge-exh-10">
 - <img src="https://cdn.shishov.me/glebshishov/Bridge-Exhibition/Bridge-Exhibition-11.webp" class="project-img-parameters img-size-full" alt="bridge-exh-11">
+- <img src="https://cdn.shishov.me/glebshishov/Bridge-Exhibition/Bridge-Exhibition-12.webp" class="project-img-parameters img-size-full" alt="bridge-exh-12">
+- <img src="https://cdn.shishov.me/glebshishov/Bridge-Exhibition/Bridge-Exhibition-13.webp" class="project-img-parameters img-size-full" alt="bridge-exh-13">
 
 ---
 
