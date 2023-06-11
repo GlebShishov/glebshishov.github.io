@@ -1,7 +1,7 @@
 ---
 layout: project-template
 title:  "Bridge forum Exhibition"
-subtitle: Brand identity
+subtitle: Visualization
 date:   2023-01-10 00:59:00
 categories: Project Visualization
 thumbnail: https://cdn.shishov.me/glebshishov/Bridge-Exhibition/Bridge-Exhibition-thumbnail.webp
