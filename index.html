@@ -39,7 +39,7 @@ layout: meta-info
     <div class="container">
         <div class="projects-container">
             {% for post in site.posts %}
-            <a class="{{post.thumbnail-class}}" href="{{ post.url | prepend: site.baseurl }}">
+            <a class="{{post.thumbnail-class}}" href="{{ post.url | prepend: site.baseurl }}" >
                 {% if post.videoUrl %}
 <!--                <iframe width="100%" height="100%"  src="{{ post.videoUrl }}?autoplay=1&muted=1&loop=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>-->
                 <video width="100%" height="100%" muted="muted" class="project-thumbnail" loop="loop" autoplay poster="{{post.thumbnail}}"> <source src="{{ post.videoUrl }}" type="video/mp4"><track src="captions_en.vtt" kind="captions" srclang="en" label="english_captions"></video>
