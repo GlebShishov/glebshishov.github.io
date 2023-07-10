@@ -425,8 +425,7 @@ figure {
 
 
 .top-padding {
-    padding-top: clamp(14px, 4vh, 64px);
-    padding-bottom: clamp(14px, 4vh, 64px);
+padding: 64px 0 64px 0;
 }
 
 p {
@@ -596,7 +595,7 @@ p {
     flex-wrap: wrap;
     /*gap: clamp(8px,1vw,24px);*/
     gap: 2px;
-    overflow-y: scroll;
+    /*overflow-y: scroll;*/
 }
 
 .project-container {
@@ -895,7 +894,7 @@ p {
 
 .content {
     width: 100%;
-    height: 100vh;
+    /*height: 100vh;*/
     display: flex;
     justify-content: space-between;
     padding-left: clamp(6px, 1vw, 1vw);
@@ -909,7 +908,7 @@ p {
     top: 50px;
     position: sticky;
     /*height: calc(100vh - 50px);*/
-    overflow-y: scroll;
+    /*overflow-y: scroll;*/
 }
 
 .right {
