@@ -427,7 +427,7 @@ figure {
 .top-padding {
     /*padding-top: 64px;*/
     /*padding-bottom: 100px;*/
-    padding-top: clamp(64px, 12vh, 120px);
+    padding-top: clamp(64px, 12vh, 64px);
     padding-bottom: clamp(16px, 4vh, 16px);
 }
 
