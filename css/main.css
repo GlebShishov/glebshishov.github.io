@@ -427,8 +427,14 @@ figure {
 .top-padding {
     /*padding-top: 64px;*/
     /*padding-bottom: 100px;*/
+<<<<<<< HEAD
     padding-top: clamp(64px, 12vh, 64px);
     padding-bottom: clamp(16px, 4vh, 16px);
+=======
+    /*padding: 64px 0 64px 0;*/
+    padding-top: clamp(14px, 4vh, 64px);
+    padding-bottom: clamp(14px, 4vh, 64px);
+>>>>>>> parent of 8cd24de (фикс скролла)
 }
 
 p {
@@ -599,7 +605,6 @@ p {
     /*gap: clamp(8px,1vw,24px);*/
     gap: 2px;
     overflow-y: scroll;
-    border-radius: clamp(4px, 1vw, 16px);
 }
 
 .project-container {
@@ -910,7 +915,7 @@ p {
     flex-shrink: 0;
     height: 100%;
     top: 50px;
-    /*position: sticky;*/
+    position: sticky;
     /*height: calc(100vh - 50px);*/
     overflow-y: scroll;
 }
