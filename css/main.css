@@ -13,10 +13,28 @@ video {
 
 :root {
     --background: #15171D;
-    --text-color: #B8B8B8;
+    --text-color-primary: #B8B8B8;
+    --text-contrast: white;
+    --text-secodary: #84898F;
     --grid-gap: clamp(1rem, 2vw, 24px);
     --grid-gutter: 24px;
     --grid-margin: 60px;
+    --color-background-content: #3F4249;
+    --color-background-secondary: #303032;
+    --button-rim: #84898f;
+    --button-text: #84898f;
+}
+@media (prefers-color-scheme: light) {
+    :root{
+        --background: #ffede4;
+        --text-color-primary: black;
+        --text-contrast: black;
+        --color-background-content: white;
+        --color-background-secondary: #f3f3f3;
+        --button-rim: black;
+        --button-text: black;
+    }
+    
 }
 
 body::-webkit-scrollbar {
@@ -72,7 +90,7 @@ html {
 body {
     margin: 0;
     background-color: var(--background);
-    color: var(--text-color);
+    color: var(--text-color-primary);
 }
 
 /*font-size: 52px;*/
@@ -106,7 +124,7 @@ p {
     /*justify-content: space-between;*/
     gap: 12px;
     text-decoration: none;
-    /*color: var(--text-color);*/
+    /*color: var(--text-color-primary);*/
     /*color: black;*/
     /*color: white;*/
     position: relative;
@@ -127,6 +145,7 @@ p {
     border-radius: clamp(6px, 2vw, 16px);
     object-fit: cover;
     object-position: center;
+    transition: font-variation-settings 0.3s ease;
 }
 
 .block-size-m {
@@ -240,7 +259,7 @@ figure {
 
 .info-line {
     height: 2px;
-    background-color: white;
+    background-color: var(--text-contrast);
 }
 
 
@@ -785,12 +804,11 @@ p {
     font-variation-settings: "wght" 300, "slnt" 0;
     font-size: clamp(14px, 2vw, 18px);
     line-height: 18px;
-    color: white;
+    color: var(--text-contrast);
     transition: font-variation-settings 0.3s ease;
 }
 
 .project-list-button:hover {
-    color: white;
     font-variation-settings: "wght" 700, "slnt" 100;
 }
 
@@ -939,4 +957,8 @@ p {
 .videos-cards{
     max-height: 255px;
     height: 100%;
+}
+.qr-code{
+    color: black;
+    background-color: black;
 }
