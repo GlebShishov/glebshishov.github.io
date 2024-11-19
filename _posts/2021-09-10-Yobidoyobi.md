@@ -4,18 +4,18 @@ title:  "Yobidoyobi"
 subtitle: Mobile APP
 date:   2021-09-08 00:59:00
 categories: Projects Apps
-thumbnail: https://cdn.shishov.me/glebshishov/YobiDoyobi/YobiDoyobi_01_Thumbnail.jpg
+thumbnail: https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/YobiDoyobi/YobiDoyobi_01_Thumbnail.jpg
 projectend: 2021 sent
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- <img src="https://cdn.shishov.me/glebshishov/YobiDoyobi/YobiDoyobi_01.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-1">
-- <img src="https://cdn.shishov.me/glebshishov/YobiDoyobi/YobiDoyobi_02.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-2">
-- <img src="https://cdn.shishov.me/glebshishov/YobiDoyobi/YobiDoyobi_03.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-3">
-- <img src="https://cdn.shishov.me/glebshishov/YobiDoyobi/YobiDoyobi_04.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-4">
-- <img src="https://cdn.shishov.me/glebshishov/YobiDoyobi/YobiDoyobi_05.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-5">
-- <img src="https://cdn.shishov.me/glebshishov/YobiDoyobi/YobiDoyobi_06.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-6">
-- <img src="https://cdn.shishov.me/glebshishov/YobiDoyobi/YobiDoyobi_07.jpg" class="project-img-parameters img-size-half" alt="YobiDoyobi-7">
-- <img src="https://cdn.shishov.me/glebshishov/YobiDoyobi/YobiDoyobi_08.jpg" class="project-img-parameters img-size-half" alt="YobiDoyobi-8">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/YobiDoyobi/YobiDoyobi_01.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-1">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/YobiDoyobi/YobiDoyobi_02.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-2">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/YobiDoyobi/YobiDoyobi_03.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-3">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/YobiDoyobi/YobiDoyobi_04.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-4">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/YobiDoyobi/YobiDoyobi_05.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-5">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/YobiDoyobi/YobiDoyobi_06.jpg" class="project-img-parameters img-size-full" alt="YobiDoyobi-6">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/YobiDoyobi/YobiDoyobi_07.jpg" class="project-img-parameters img-size-half" alt="YobiDoyobi-7">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/YobiDoyobi/YobiDoyobi_08.jpg" class="project-img-parameters img-size-half" alt="YobiDoyobi-8">
 ---
 
 Product design, for a Russian chain of sushi restaurants.

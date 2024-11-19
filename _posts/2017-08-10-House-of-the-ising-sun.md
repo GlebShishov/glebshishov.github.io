@@ -4,7 +4,7 @@ title:  "House of the risign sun"
 subtitle: Game
 date:   2017-08-10 00:59:00
 categories: Projects Games
-thumbnail: https://cdn.shishov.me/glebshishov/House-of-the-rising-sun/House-of-the-Rising-sun-thumbnail.png
+thumbnail: https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/House-of-the-rising-sun/House-of-the-Rising-sun-thumbnail.png
 projectend: 2018 SUMMER
 thumbnail-class: project-thumbnail-container block-size-m
 images:

@@ -4,11 +4,11 @@ title:  "Invincible"
 subtitle: NFT collection
 date:   2022-01-10 00:59:00
 categories: Projects NFT
-thumbnail: https://cdn.shishov.me/glebshishov/Invincible/Invincible-thumbnail.webp
+thumbnail: https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Invincible/Invincible-thumbnail.webp
 projectend: 2022 winter
 thumbnail-class: project-thumbnail-container block-size-m
 images:
-- <img src="https://cdn.shishov.me/glebshishov/Invinceble/inviceble-1.jpg" class="project-img-parameters img-size-full" alt="Invinceble-1">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Invinceble/inviceble-1.jpg" class="project-img-parameters img-size-full" alt="Invinceble-1">
 - <iframe class="project-img-parameters img-size-tri videos-cards" src="https://player.vimeo.com/video/787188396?h=4737b82e76&amp;badge=0&amp;autopause=0&amp&autoplay=1&loop=1;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="1 Bridge 2.mp4"></iframe>
 - <iframe class="project-img-parameters img-size-tri videos-cards" src="https://player.vimeo.com/video/787188500?h=aa44a34e72&amp;badge=0&amp;autopause=0&amp&autoplay=1&loop=1;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="2 City.mp4"></iframe>
 - <iframe class="project-img-parameters img-size-tri videos-cards" src="https://player.vimeo.com/video/787188563?h=22c608d56c&amp;badge=0&amp;autopause=0&amp&autoplay=1&loop=1;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="3 Logo.mp4"></iframe>

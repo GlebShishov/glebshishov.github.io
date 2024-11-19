@@ -6,7 +6,7 @@ let windowWidth = document.documentElement.clientWidth
             document.getElementById("navbar").style.top = "0";
             return;
         }
-        console.log(prevScrollpos,currentScrollPos)
+        // console.log(prevScrollpos,currentScrollPos)
         if (prevScrollpos > currentScrollPos){
             document.getElementById("navbar").style.top = "0";
         } else {

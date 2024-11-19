@@ -4,7 +4,7 @@ title:  "Cursed Assention"
 subtitle: Game
 date:   2018-04-10 00:59:00
 categories: Projects Games
-thumbnail: https://cdn.shishov.me/glebshishov/Cursed-Assention/Cursed-Assention-thumbnail.png
+thumbnail: https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Cursed-Assention/Cursed-Assention-thumbnail.png
 projectend: 2018 Spring
 thumbnail-class: project-thumbnail-container block-size-m
 images:

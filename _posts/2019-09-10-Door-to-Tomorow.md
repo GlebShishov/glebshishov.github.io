@@ -4,7 +4,7 @@ title:  "Door to Tomorow"
 subtitle: Game
 date:   2019-09-10 00:59:00
 categories: Projects Games
-thumbnail: https://cdn.shishov.me/glebshishov/Door-to-Tomorow/Door-to-Tomorow-thumbnail.png
+thumbnail: https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Door-to-Tomorow/Door-to-Tomorow-thumbnail.png
 projectend: 2019 summer
 thumbnail-class: project-thumbnail-container block-size-m
 images:

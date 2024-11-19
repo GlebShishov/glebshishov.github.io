@@ -4,7 +4,7 @@ title:  "Renewveble future"
 subtitle: Game
 date:   2019-09-10 00:59:00
 categories: Projects Games
-thumbnail: https://cdn.shishov.me/glebshishov/Renew-Future/Renew-Future-thumbnail.png
+thumbnail: https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Renew-Future/Renew-Future-thumbnail.png
 projectend: 2019 Summer
 thumbnail-class: project-thumbnail-container block-size-m
 images:

@@ -4,19 +4,19 @@ title:  "VR Binoculars"
 subtitle: product design
 date:   2020-09-10 00:59:00
 categories: Projects Prom-desing
-videoUrl: https://cdn.shishov.me/glebshishov/VR-Binoculars/VR-Binoculars-thumbnail.mp4
-thumbnail: https://cdn.shishov.me/glebshishov/VR-Binoculars/VR-Binoculars-thumbnail.webp
+videoUrl: https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/VR-Binoculars/VR-Binoculars-thumbnail.mp4
+thumbnail: https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/VR-Binoculars/VR-Binoculars-thumbnail.webp
 projectend: 2022 Summer
 thumbnail-class: project-thumbnail-container block-size-l
 images:
-- <img src="https://cdn.shishov.me/glebshishov/VR-Binoculars/VR-Binoculars-1.webp" class="project-img-parameters img-size-full" alt="VR-1">
-- <img src="https://cdn.shishov.me/glebshishov/VR-Binoculars/VR-Binoculars-3.webp" class="project-img-parameters img-size-full" alt="VR-3">
-- <img src="https://cdn.shishov.me/glebshishov/VR-Binoculars/VR-Binoculars-4.webp" class="project-img-parameters img-size-full" alt="VR-4">
-- <img src="https://cdn.shishov.me/glebshishov/VR-Binoculars/VR-Binoculars-5.webp" class="project-img-parameters img-size-full" alt="VR-5">
-- <img src="https://cdn.shishov.me/glebshishov/VR-Binoculars/VR-Binoculars-7.webp" class="project-img-parameters img-size-full" alt="VR-7">
-- <img src="https://cdn.shishov.me/glebshishov/VR-Binoculars/VR-Binoculars-9.webp" class="project-img-parameters img-size-full" alt="VR-9">
-- <img src="https://cdn.shishov.me/glebshishov/VR-Binoculars/VR-Binoculars-8.webp" class="project-img-parameters img-size-half" alt="VR-8">
-- <img src="https://cdn.shishov.me/glebshishov/VR-Binoculars/VR-Binoculars-10.webp" class="project-img-parameters img-size-half" alt="VR-10">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/VR-Binoculars/VR-Binoculars-1.webp" class="project-img-parameters img-size-full" alt="VR-1">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/VR-Binoculars/VR-Binoculars-3.webp" class="project-img-parameters img-size-full" alt="VR-3">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/VR-Binoculars/VR-Binoculars-4.webp" class="project-img-parameters img-size-full" alt="VR-4">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/VR-Binoculars/VR-Binoculars-5.webp" class="project-img-parameters img-size-full" alt="VR-5">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/VR-Binoculars/VR-Binoculars-7.webp" class="project-img-parameters img-size-full" alt="VR-7">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/VR-Binoculars/VR-Binoculars-9.webp" class="project-img-parameters img-size-full" alt="VR-9">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/VR-Binoculars/VR-Binoculars-8.webp" class="project-img-parameters img-size-half" alt="VR-8">
+- <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/VR-Binoculars/VR-Binoculars-10.webp" class="project-img-parameters img-size-half" alt="VR-10">
 
 ---
 Industrial design, UI / UX design
