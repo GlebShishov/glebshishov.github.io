@@ -962,3 +962,34 @@ p {
     color: black;
     background-color: black;
 }
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 13%;
+    width: 100%;
+    height: 75%;
+}
+
+.player{
+    width: 100%; !important;
+}
+.project-slide-video-wrapper {
+    max-width: 100% !important;
+}
+.project-slide-video-wrapper img {
+    width: 100% !important;
+    height: 100%  !important;;
+}
+.vimeo-embed { width: 100% !important; }
