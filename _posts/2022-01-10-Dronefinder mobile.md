@@ -9,7 +9,7 @@ projectend: 2021 winter
 thumbnail-class: project-thumbnail-container block-size-m
 images:
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder-mobile/drone-12.webp" class="project-img-parameters img-size-full" alt="Dronefinder-2">
-- <video muted="muted" loop="loop" autoplay class="project-img-parameters img-size-tri"> <source src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-anim-fly.webm"></video>
+- <video muted="muted" loop="loop" autoplay playsinline class="project-img-parameters img-size-tri"> <source src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-anim-fly.webm"></video>
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder-mobile/drone-mobile-1.webp" class="project-img-parameters img-size-full" alt="drone-mobile-1">
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder-mobile/drone-mobile-2.png" class="project-img-parameters img-size-full" alt="drone-mobile-2">
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder-mobile/drone-mobile-3.webp" class="project-img-parameters img-size-full" alt="drone-mobile-3">

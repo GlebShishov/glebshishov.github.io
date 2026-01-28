@@ -10,10 +10,10 @@ thumbnail-class: project-thumbnail-container block-size-l
 images:
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-1.webp" class="project-img-parameters img-size-full" alt="Dronefinder-1">
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/img/Dronefinder/drone-2.webp" class="project-img-parameters img-size-full" alt="Dronefinder-2">
-- <video muted="muted" loop="loop" autoplay class="project-img-parameters img-size-tri"> <source src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-anim-fly.webm"></video>
+- <video muted="muted" loop="loop" autoplay playsinline class="project-img-parameters img-size-tri"> <source src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-anim-fly.webm"></video>
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-3.webp" class="project-img-parameters img-size-full" alt="Dronefinder-3">
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-4.webp" class="project-img-parameters img-size-full" alt="Dronefinder-4">
-- <video muted="muted" loop="loop" autoplay class="project-img-parameters img-size-tri"> <source src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-anim-patter.mp4"></video>
+- <video muted="muted" loop="loop" autoplay playsinline class="project-img-parameters img-size-tri"> <source src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-anim-patter.mp4"></video>
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-5.webp" class="project-img-parameters img-size-full" alt="Dronefinder-1">
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-6.webp" class="project-img-parameters img-size-full" alt="Dronefinder-1">
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Dronefinder/drone-7.webp" class="project-img-parameters img-size-full" alt="Dronefinder-1">

@@ -16,7 +16,7 @@ images:
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Metanotary/Metanotary-5.webp" class="project-img-parameters img-size-full" alt="Metanotary-5">
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Metanotary/Metanotary-6.webp" class="project-img-parameters img-size-full" alt="Metanotary-6">
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Metanotary/Metanotary-7.webp" class="project-img-parameters img-size-full" alt="Metanotary-7">
-  <video muted="muted" loop="loop" autoplay class="project-img-parameters img-size-tri"> <source src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Metanotary/Metanotary-pattern-2.mp4"></video>
+  <video muted="muted" loop="loop" autoplay playsinline class="project-img-parameters img-size-tri"> <source src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Metanotary/Metanotary-pattern-2.mp4"></video>
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Metanotary/Metanotary-8.webp" class="project-img-parameters img-size-full" alt="Metanotary-8">
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Metanotary/Metanotary-9.webp" class="project-img-parameters img-size-full" alt="Metanotary-9">
 - <img src="https://glebshishov.fra1.cdn.digitaloceanspaces.com/web/Metanotary/Metanotary-10.webp" class="project-img-parameters img-size-full" alt="Metanotary-10">
